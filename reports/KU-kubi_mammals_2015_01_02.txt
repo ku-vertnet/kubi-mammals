@@ -1,0 +1,356 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 258
+Number of records retrieved in searches: 2961
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 36
+	Country: Colombia ; Times: 2
+	Country: India ; Times: 4
+	Country: Mexico ; Times: 28
+	Country: Namibia ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 4
+	Country: Spain ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 170
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 7
+	Date: 2014-12-02 ; Times: 10
+	Date: 2014-12-03 ; Times: 13
+	Date: 2014-12-04 ; Times: 21
+	Date: 2014-12-05 ; Times: 18
+	Date: 2014-12-06 ; Times: 3
+	Date: 2014-12-07 ; Times: 6
+	Date: 2014-12-08 ; Times: 8
+	Date: 2014-12-09 ; Times: 11
+	Date: 2014-12-10 ; Times: 22
+	Date: 2014-12-11 ; Times: 22
+	Date: 2014-12-12 ; Times: 1
+	Date: 2014-12-13 ; Times: 2
+	Date: 2014-12-14 ; Times: 3
+	Date: 2014-12-15 ; Times: 12
+	Date: 2014-12-16 ; Times: 15
+	Date: 2014-12-17 ; Times: 12
+	Date: 2014-12-18 ; Times: 7
+	Date: 2014-12-19 ; Times: 4
+	Date: 2014-12-21 ; Times: 8
+	Date: 2014-12-22 ; Times: 9
+	Date: 2014-12-23 ; Times: 13
+	Date: 2014-12-24 ; Times: 3
+	Date: 2014-12-25 ; Times: 4
+	Date: 2014-12-26 ; Times: 13
+	Date: 2014-12-27 ; Times: 4
+	Date: 2014-12-30 ; Times: 2
+	Date: 2014-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "M-17316" ; Times: 1
+	Query: "catalognumber:11096 institutioncode:KU" ; Times: 2
+	Query: "country:"USA" specificepithet:latrans genus:canis year >= 1950 tissue:1" ; Times: 2
+	Query: "LACM class:Mammalia atelerix albiventris" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "Manus Island" ; Times: 1
+	Query: "microtus californicus mexico" ; Times: 1
+	Query: "specificepithet:palustris genus:oryzomys tissue:1" ; Times: 1
+	Query: "stateprovince:"tennessee" genus:tamias" ; Times: 2
+	Query: "muskrat" ; Times: 1
+	Query: "specificepithet:TOWNSENDII catalognumber:150636" ; Times: 1
+	Query: "Martes americana sierrae stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "specificepithet:venustus genus:dipodomys tissue:1" ; Times: 1
+	Query: "catalognumber:20807 institutioncode:ku" ; Times: 1
+	Query: "blarina type:specimen county:"jackson" stateprovince:"missouri"" ; Times: 1
+	Query: "partida type:specimen" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys tissue:1" ; Times: 1
+	Query: "Pteronura" ; Times: 1
+	Query: "Ochotona princeps schisticeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "cebus capucinus" ; Times: 2
+	Query: "thylacinus" ; Times: 2
+	Query: "Tadarida brasiliensis Nevada" ; Times: 1
+	Query: "specificepithet:aphrastus genus:Sigmodontomys tissue:1" ; Times: 1
+	Query: "KU KUM 63133" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "Irapuato" ; Times: 2
+	Query: "blarina type:specimen county:"miami" stateprovince:"kansas"" ; Times: 1
+	Query: ""Didelphis virginiana" stateprovince:"Texas"" ; Times: 1
+	Query: "Nasua narica tissue:1" ; Times: 1
+	Query: "ku kum 66171" ; Times: 2
+	Query: "distichlis" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys tissue:1" ; Times: 1
+	Query: "ochrotomys nuttalli tissue:1" ; Times: 1
+	Query: "KU KUM 144579" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "Cavia aperea type:specimen" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "ku kum 24890" ; Times: 1
+	Query: "ku kum 24891" ; Times: 1
+	Query: "KU 15140" ; Times: 2
+	Query: "LACM class:Mammalia ictonyx striatus" ; Times: 1
+	Query: "type:specimen county:"gila" stateprovince:"arizona" genus:idionycteris year >= 1960 year <= 1960" ; Times: 1
+	Query: "thylacinus cynocephalus" ; Times: 7
+	Query: "elephantidae" ; Times: 1
+	Query: ""Procyon lotor" county:"Mills"" ; Times: 2
+	Query: "holochilus tissue:1" ; Times: 1
+	Query: "didelphis pernigra" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "Nasua narica country:"Nicaragua"" ; Times: 1
+	Query: "104202 tissue:1" ; Times: 1
+	Query: "KU KUM 71919" ; Times: 1
+	Query: "catalognumber:6740 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx institutioncode:KU" ; Times: 1
+	Query: "isla partida type:specimen class:mammalia" ; Times: 1
+	Query: "catalognumber:5835 institutioncode:KU year >= 1928 year <= 1928" ; Times: 1
+	Query: "cynopterus sphinx" ; Times: 3
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:idionycteris year >= 1958 year <= 1958" ; Times: 2
+	Query: "Microtus californicus paludicola stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "county:"perry" genus:peromyscus" ; Times: 1
+	Query: "KU 6736" ; Times: 1
+	Query: "KU KUM 39323" ; Times: 1
+	Query: "manus island" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "didelphis aurita" ; Times: 1
+	Query: "genus:corynorhinus recordedby:vaughan institutioncode:ku year >= 1952 year <= 1953" ; Times: 1
+	Query: "villa bernardo" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "choloepus didactylus" ; Times: 1
+	Query: "KU KUM 108204" ; Times: 1
+	Query: "type:specimen county:"Big Horn" stateprovince:"Montana"" ; Times: 1
+	Query: "stateprovince:"Tlaxcala" genus:Neotomodon" ; Times: 15
+	Query: "Myotis ciliolabrum Alaska" ; Times: 1
+	Query: "genus:melanomys tissue:1" ; Times: 5
+	Query: "Geomys jugossicularis" ; Times: 4
+	Query: "papio" ; Times: 1
+	Query: "KU 30775" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 2
+	Query: "microtus oregoni king" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 2
+	Query: "specificepithet:simulans genus:dipodomys" ; Times: 1
+	Query: "KU 45667" ; Times: 1
+	Query: "KU KUM 115596" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: ""Notiosorex crawfordi" stateprovince:"Texas"" ; Times: 1
+	Query: "type:specimen stateprovince:"Tennessee" specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "KU KUM 108203" ; Times: 1
+	Query: "catalognumber:13794 institutioncode:KU" ; Times: 3
+	Query: "Vombatus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "blarina type:specimen county:"Linn" stateprovince:"kansas"" ; Times: 1
+	Query: "Ochotona princeps type:specimen county:"Mono" stateprovince:"California" country:"USA"" ; Times: 1
+	Query: "blythe genus:corynorhinus recordedby:vaughan institutioncode:ku year >= 1952 year <= 1953" ; Times: 1
+	Query: "catalognumber:135790 tissue:1" ; Times: 1
+	Query: "Octodon degus" ; Times: 2
+	Query: ""Nyctinomops macrotis" stateprovince:"Texas"" ; Times: 2
+	Query: "Reithrodontomys megalotis stateprovince:"Tlaxcala" country:"Mexico"" ; Times: 1
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:Sciurus year >= 1958 year <= 1958" ; Times: 2
+	Query: "manis javanica type:specimen" ; Times: 2
+	Query: "ESCUINAPA" ; Times: 1
+	Query: "specificepithet:stephensi genus:dipodomys tissue:1" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "ku kum 19889" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 2
+	Query: "type:specimen county:"brewster" stateprovince:"texas" genus:chaetodipus year >= 1957 year <= 1959" ; Times: 2
+	Query: "elephas maximus" ; Times: 1
+	Query: "ku kum 24490" ; Times: 1
+	Query: "ku kum 24491" ; Times: 1
+	Query: "Martes americana sierrae year <= 2014 mappable:1" ; Times: 1
+	Query: "genus:Corynorhinus catalognumber:150637" ; Times: 2
+	Query: "genus:Corynorhinus catalognumber:150636" ; Times: 2
+	Query: ""bell museum"" ; Times: 2
+	Query: "genus:zygodontomys tissue:1" ; Times: 1
+	Query: "68131 distance(location,geopoint(38.46219172306828,-122.60604858398438))<100000" ; Times: 2
+	Query: "catalognumber:15096 institutioncode:ku" ; Times: 1
+	Query: "Tadarida county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "catalognumber:18629 (Mammal)" ; Times: 1
+	Query: "Peromyscus leucopus county:"Queens"" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year >= 1970 tissue:1" ; Times: 3
+	Query: "Ochotona princeps type:specimen stateprovince:"California" country:"USA"" ; Times: 3
+	Query: "mammalia county:"decatur" stateprovince:"tennessee"" ; Times: 1
+	Query: "KU KUM 144560" ; Times: 2
+	Query: "specificepithet:polius tissue:1" ; Times: 1
+	Query: "LACM class:Mammalia spilogale gracilis" ; Times: 1
+	Query: "county:"San Diego" stateprovince:"California" specificepithet:townsendii" ; Times: 1
+	Query: "Antrozous county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "mus musculus country:"korea"" ; Times: 1
+	Query: "sorex coronatus" ; Times: 3
+	Query: "type:specimen country:"USA" specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Aconaemys fuscus" ; Times: 1
+	Query: "catalognumber:18629 (Mammalia)" ; Times: 1
+	Query: "KU 112621" ; Times: 1
+	Query: "stateprovince:"tlaxcala"" ; Times: 1
+	Query: "LACM class:Mammalia taxidea taxus" ; Times: 1
+	Query: "type:specimen stateprovince:"arkansas" genus:glaucomys year >= 1932 year <= 1932" ; Times: 1
+	Query: "ku kum 24489" ; Times: 1
+	Query: "country:"singapore" genus:cynopterus" ; Times: 1
+	Query: "eira barbara" ; Times: 3
+	Query: "Pearsonomys" ; Times: 1
+	Query: "Aonyx" ; Times: 2
+	Query: "country:"USA" specificepithet:latrans genus:canis tissue:1" ; Times: 1
+	Query: "type:specimen county:"coconino" stateprovince:"arizona" genus:Sciurus year >= 1954 year <= 1954" ; Times: 1
+	Query: "eira barbara eira barbara country:"mexico" (eira barbara) AND (eira barbara)" ; Times: 3
+	Query: "type:specimen genus:Sciurus hastypestatus:1" ; Times: 1
+	Query: "Hydrictis" ; Times: 2
+	Query: "blarina type:specimen stateprovince:"Kansas"" ; Times: 1
+	Query: "type:specimen county:"Mono" stateprovince:"California" country:"USA" specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: ""procyon lotor" stateprovince:"texas"" ; Times: 6
+	Query: "KU KUM 104719" ; Times: 1
+	Query: "type:specimen county:"mohave" stateprovince:"arizona" genus:myotis" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "blarina type:specimen county:"osage" stateprovince:"kansas"" ; Times: 1
+	Query: "manis type:specimen country:"Singapore"" ; Times: 2
+	Query: "county:"de soto" genus:peromyscus" ; Times: 2
+	Query: "sorex hoyi winnemana" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 4
+	Query: "type:specimen country:"USA" specificepithet:hispidus genus:sigmodon year >= 1975" ; Times: 1
+	Query: "catalognumber:17706 institutioncode:KU tissue:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "cebus capucinus year >= 1960 year <= 2014 tissue:1" ; Times: 1
+	Query: "ku kum 32180" ; Times: 1
+	Query: "thyroptera" ; Times: 1
+	Query: "Irapuato Mammalia" ; Times: 1
+	Query: "Peromyscus leucopus county:"Nassau"" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Vulpes vulpes necator stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen county:"brewster" stateprovince:"texas" genus:chaetodipus year >= 1956 year <= 1959" ; Times: 1
+	Query: "okapi" ; Times: 1
+	Query: "myotis evotis nevada" ; Times: 2
+	Query: "chiroptera county:"Catron" stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "catalognumber:12706 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 238 download events in this period)
+Total number of records downloaded: 21006 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 19436
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 62
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 2
+	Date: 2014-12-02 ; Times: 2
+	Date: 2014-12-03 ; Times: 3
+	Date: 2014-12-04 ; Times: 4
+	Date: 2014-12-05 ; Times: 4
+	Date: 2014-12-06 ; Times: 1
+	Date: 2014-12-08 ; Times: 2
+	Date: 2014-12-09 ; Times: 6
+	Date: 2014-12-10 ; Times: 4
+	Date: 2014-12-15 ; Times: 3
+	Date: 2014-12-16 ; Times: 1
+	Date: 2014-12-17 ; Times: 1
+	Date: 2014-12-18 ; Times: 9
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-22 ; Times: 2
+	Date: 2014-12-23 ; Times: 3
+	Date: 2014-12-24 ; Times: 13
+	Date: 2014-12-26 ; Times: 3
+	Date: 2014-12-27 ; Times: 2
+	Date: 2014-12-28 ; Times: 1
+	Date: 2014-12-30 ; Times: 1
+	Date: 2014-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen stateprovince:"alaska" specificepithet:vitulina genus:phoca" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "Microtus montanus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "Microtus montanus dutcheri stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Urocitellus beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "Ochotona princeps muiri stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "chiroptera stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "type:specimen county:"bernalillo" stateprovince:"new mexico" genus:tamias" ; Times: 1
+	Query: "holochilus tissue:1" ; Times: 1
+	Query: "chiroptera panama" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "Callospermophilus lateralis bernardinus stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1975" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "Microtus californicus halophilus stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "molossus tissue:1" ; Times: 1
+	Query: "Zapus princeps pacificus stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Sorex vagrans halicoetes stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "Macrotus californicus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Microtus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:Myotis" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "peromyscus eremicus stateprovince:"california"" ; Times: 1
+	Query: "type:specimen country:"USA" specificepithet:hispidus genus:sigmodon year >= 1975" ; Times: 1
+	Query: "LACM class:Mammalia mephitis mephitis" ; Times: 1
+	Query: "type:specimen genus:Ochotona mappable:1 tissue:1" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 2
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus (skull skin skeleton) year >= 1975" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Urocitellus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Zapus princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen genus:lynx" ; Times: 1
+	Query: "type:specimen specificepithet:aquaticus genus:scalopus year >= 1975" ; Times: 1
+	Query: "Tamias speciosus speciosus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "thyroptera" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Arizona"" ; Times: 1
+	Query: "county:"Navajo" stateprovince:"Arizona"" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus year >= 1975" ; Times: 1
+	Query: "type:specimen county:"Big Horn" stateprovince:"Montana"" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "muntiacus skull" ; Times: 1
+	Query: "Cavia aperea type:specimen" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus year >= 1975" ; Times: 1
+	Query: "Microtus californicus halophilus year <= 2014 mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2984
+Total number of records retrieved from searches: 49398
+Number of download events that retrieved data from the resource: 812
+Total number of records downloaded: 689195
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2984
+Total number of records retrieved from searches: 49398
+Number of download events that retrieved data from the resource: 942
+Total number of records downloaded: 814454
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
