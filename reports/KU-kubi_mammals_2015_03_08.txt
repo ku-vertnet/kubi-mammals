@@ -1,0 +1,318 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 334
+Number of records retrieved in searches: 10115
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Hungary ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 140
+	Country: Spain ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 151
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 6
+	Date: 2015-02-02 ; Times: 12
+	Date: 2015-02-03 ; Times: 129
+	Date: 2015-02-04 ; Times: 18
+	Date: 2015-02-05 ; Times: 12
+	Date: 2015-02-06 ; Times: 16
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 6
+	Date: 2015-02-10 ; Times: 14
+	Date: 2015-02-11 ; Times: 3
+	Date: 2015-02-12 ; Times: 6
+	Date: 2015-02-13 ; Times: 9
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 5
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-18 ; Times: 6
+	Date: 2015-02-19 ; Times: 24
+	Date: 2015-02-20 ; Times: 13
+	Date: 2015-02-21 ; Times: 4
+	Date: 2015-02-22 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 7
+	Date: 2015-02-25 ; Times: 7
+	Date: 2015-02-26 ; Times: 9
+	Date: 2015-02-27 ; Times: 15
+	Date: 2015-02-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Cetacea Brazil mappable:1" ; Times: 1
+	Query: "type:specimen catalognumber:28050 institutioncode:KU" ; Times: 1
+	Query: "Urocyon littoralis year <= 2015" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "KU 135080" ; Times: 2
+	Query: "135012 tissue:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:holochilus" ; Times: 1
+	Query: "llano grande" ; Times: 1
+	Query: "burchelli tissue:1" ; Times: 1
+	Query: "Dipodomys merriami stateprovince:"Coahuila"" ; Times: 1
+	Query: "lako" ; Times: 2
+	Query: "Lasiurus minor" ; Times: 2
+	Query: "leopardus pardalis country:"Mexico"" ; Times: 1
+	Query: "type:specimen county:"Tompkins" stateprovince:"New York" specificepithet:Leucopus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cynomops year >= 1900 year <= 2020" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:polionotus genus:peromyscus" ; Times: 1
+	Query: "Regina tissue:1" ; Times: 2
+	Query: "IXTLAHUACAN DEL RIO" ; Times: 2
+	Query: "county:"Okanogan" stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "solenodon" ; Times: 1
+	Query: "genus:Sigmodontomys tissue:1" ; Times: 1
+	Query: "specificepithet:talamancae genus:Oryzomys" ; Times: 1
+	Query: "type:specimen specificepithet:siskiyou class:Mammalia institutioncode:KU" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "county:"Seward" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "genus:bradypus institutioncode:KU KUM" ; Times: 1
+	Query: "type:specimen county:"Lane" specificepithet:siskiyou class:Mammalia institutioncode:KU" ; Times: 1
+	Query: "order: rodentia reithrodontomys megalotis type:specimen (llano de las flores)" ; Times: 1
+	Query: "panthera onca" ; Times: 7
+	Query: "specificepithet:alfaroi genus:Oryzomys year >= 1990 year <= 2014" ; Times: 1
+	Query: "specificepithet:campbelli genus:Phodopus" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "type:specimen stateprovince:"arkansas" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "Canis latrans county:"Los Angeles" stateprovince:"California" genus:Canis year >= 1800 year <= 2100" ; Times: 1
+	Query: "KU 60064" ; Times: 1
+	Query: "county:"Lane" specificepithet:siskiyou class:Mammalia institutioncode:KU" ; Times: 1
+	Query: "KU 60067" ; Times: 1
+	Query: "Isthmomys pirrensis" ; Times: 2
+	Query: "genus:Hyperacrius" ; Times: 1
+	Query: "FMNH 144363" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 7
+	Query: "county:"Norfolk" stateprovince:"Massachusetts" class:Mammalia year <= 2015" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (tissue) year >= 1970 year <= 2015" ; Times: 1
+	Query: "KU 24347" ; Times: 1
+	Query: "county:"Los Angeles" stateprovince:"California" genus:Canis year >= 1800 year <= 2100" ; Times: 1
+	Query: "ichneumia albicauda" ; Times: 1
+	Query: "Proechimys roberti" ; Times: 1
+	Query: "genus:bradypus" ; Times: 3
+	Query: "KU 121677" ; Times: 1
+	Query: "bistriata" ; Times: 1
+	Query: "mustela nigripes South Dakota" ; Times: 4
+	Query: "ardops nichollsi" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "peromyscus ann arbor AND (NOT ummz)" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Cynomys" ; Times: 1
+	Query: "catalognumber:12706 institutioncode:KU tissue:1" ; Times: 1
+	Query: "catalognumber:21655 institutioncode:ku" ; Times: 2
+	Query: "variegatoides" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Reithrodontomys" ; Times: 1
+	Query: "stateprovince:"Colorado" specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:cinereus genus:lasiurus" ; Times: 1
+	Query: "county:"Norfolk" stateprovince:"Massachusetts" class:Mammalia" ; Times: 1
+	Query: "genus:Melanomys tissue:1" ; Times: 4
+	Query: "Cuba Molossus molossus tissue:1" ; Times: 2
+	Query: "specificepithet:cricetus genus:cricetus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "genus:scolomys" ; Times: 1
+	Query: "type:specimen specificepithet:domestica genus:monodelphis year >= 1950 year <= 2015" ; Times: 1
+	Query: "genus:melanomys tissue:1" ; Times: 3
+	Query: "heliophobius argenteocinereus" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 2
+	Query: "Canis lupus mexico" ; Times: 1
+	Query: "Panthera onca country:"Mexico"" ; Times: 1
+	Query: "specificepithet:brandti genus:Mesocricetus" ; Times: 1
+	Query: "Callicebus tissue:1" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (tissue) year >= 1970" ; Times: 1
+	Query: "LACM 63476" ; Times: 1
+	Query: "Canis latrans county:"Los Angeles" stateprovince:"California" genus:Canis" ; Times: 1
+	Query: "country:"canada" specificepithet:ungava genus:phenacomys" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Zapus distance(location,geopoint(38.4621917230683,-109.27001953125))<100000" ; Times: 1
+	Query: "KU 29852" ; Times: 1
+	Query: "Didelphis virginiana type:specimen (pouch)" ; Times: 1
+	Query: "specificepithet:microdon genus:Reithrodontomys" ; Times: 1
+	Query: "KU 6662" ; Times: 2
+	Query: "myotis lucifugus stateprovince:"Pennsylvania" year >= 1600 year <= 1959" ; Times: 1
+	Query: "Mustela nivalis MVZ type:specimen (MVZ)" ; Times: 2
+	Query: "order: rodentia reithrodontomys megalotis (oaxaca)" ; Times: 1
+	Query: "KU 10003" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 2
+	Query: "myotis lucifugus pennsylvania" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "stateprovince:"Alabama" specificepithet:polionotus genus:peromyscus year >= 1950" ; Times: 2
+	Query: "stateprovince:"Michigan" genus:Glaucomys tissue:1" ; Times: 2
+	Query: ""Canis lupus baileyi"" ; Times: 1
+	Query: "(crete)" ; Times: 1
+	Query: "county:"Marshall" stateprovince:"Kansas" year >= 1960 year <= 2015" ; Times: 1
+	Query: "blarina stateprovince:"missouri"" ; Times: 2
+	Query: "genus:Ursus year >= 1931 year <= 1933" ; Times: 2
+	Query: "stateprovince:"Georgia" specificepithet:polionotus genus:peromyscus year >= 1950" ; Times: 2
+	Query: "regina tissue:1" ; Times: 1
+	Query: "Odocoileus institutioncode:KU" ; Times: 1
+	Query: "reithrodontomys rodriguezi" ; Times: 3
+	Query: "Lepus callotis" ; Times: 118
+	Query: "stateprovince:"Colorado" specificepithet:Princeps genus:Zapus" ; Times: 3
+	Query: "ummz margarita" ; Times: 1
+	Query: "specificepithet:sungorus genus:Phodopus" ; Times: 1
+	Query: "country:"Mexico" genus:Eira" ; Times: 2
+	Query: "sorex coronatus" ; Times: 3
+	Query: "KU 21677" ; Times: 2
+	Query: "order: rodentia reithrodontomys megalotis (oaxaca) tissue:1" ; Times: 1
+	Query: "geomys breviceps" ; Times: 1
+	Query: "Lako" ; Times: 2
+	Query: "specificepithet:melanops genus:scolomys" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "genus:bradypus tissue:1" ; Times: 4
+	Query: "genus:Micoureus" ; Times: 1
+	Query: "stateprovince:"Oregon" specificepithet:siskiyou class:Mammalia" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "KU 60065" ; Times: 1
+	Query: "40194 (mammalia)" ; Times: 1
+	Query: "Caenolestes convelatus" ; Times: 1
+	Query: "Crunomys" ; Times: 1
+	Query: "type:specimen stateprovince:"Missouri" specificepithet:Striatus genus:Tamias year >= 1960 year <= 2015" ; Times: 1
+	Query: "catalognumber:3684 institutioncode:KU tissue:1" ; Times: 1
+	Query: "reithrodontomys paradoxus" ; Times: 1
+	Query: "reithrodontomys burti" ; Times: 1
+	Query: "specificepithet:ungava genus:phenacomys" ; Times: 1
+	Query: "KU 135079" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia institutioncode:KU" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "order: rodentia reithrodontomys megalotis type:specimen (oaxaca) tissue:1" ; Times: 1
+	Query: "subflavus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "colimensis" ; Times: 1
+	Query: "type:specimen stateprovince:"South Carolina" specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "caenolestes tissue:1" ; Times: 1
+	Query: "puffer lake beaver" ; Times: 1
+	Query: "kansas 157198" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Reithrodontomys" ; Times: 1
+	Query: "ummz yagouaroundi" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "stateprovince:"Wisconsin" genus:Glaucomys tissue:1" ; Times: 2
+	Query: "catalognumber:52551 institutioncode:ku tissue:1" ; Times: 1
+	Query: "blarina stateprovince:"kansas"" ; Times: 3
+	Query: "Chaetodipus hispidus stateprovince:"Coahuila"" ; Times: 1
+	Query: "type:specimen genus:Ursus year >= 1931 year <= 1933" ; Times: 1
+	Query: "Callithrix tissue:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Tennessee" specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 326 download events in this period)
+Total number of records downloaded: 180870 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 165366
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 3
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 6
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-10 ; Times: 3
+	Date: 2015-02-11 ; Times: 4
+	Date: 2015-02-12 ; Times: 3
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 3
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 9
+	Date: 2015-02-25 ; Times: 7
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "specificepithet:socialis genus:Microtus" ; Times: 1
+	Query: "stateprovince:"Oregon" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "genus:Hyperacrius" ; Times: 1
+	Query: "liomys irroratus stateprovince:"oaxaca" country:"Mexico"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus year >= 1901 year <= 2015" ; Times: 1
+	Query: "peromyscus zarhynchus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:cricetulus" ; Times: 1
+	Query: "genus:Monodon" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "specificepithet:roborovskii genus:Phodopus" ; Times: 1
+	Query: "Canis latrans country:"Mexico" mappable:1" ; Times: 1
+	Query: "Macrotus waterhousii type:specimen (Bahama OR Bahamas)" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "genus:kogia" ; Times: 1
+	Query: "stateprovince:"New York" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Dipodomys merriami stateprovince:"Coahuila"" ; Times: 1
+	Query: "papantla" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"Kansas" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "genus:Glaucomys tissue:1" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: ""Canis lupus baileyi"" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "stateprovince:"Illinois" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Odocoileus institutioncode:KU" ; Times: 1
+	Query: "Sciurus niger tissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "stateprovince:"California" genus:Callorhinus" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus year >= 1920 year <= 1970" ; Times: 1
+	Query: "Proechimys roberti" ; Times: 1
+	Query: "genus:Tursiops" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Chaetodipus fallax" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "specificepithet:migratorius genus:cricetulus" ; Times: 1
+	Query: "Chaetodipus arenarius" ; Times: 1
+	Query: "maxomys" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3318
+Total number of records retrieved from searches: 59513
+Number of download events that retrieved data from the resource: 226
+Total number of records downloaded: 291088
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3882
+Total number of records retrieved from searches: 66673
+Number of download events that retrieved data from the resource: 1168
+Total number of records downloaded: 1105542
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
