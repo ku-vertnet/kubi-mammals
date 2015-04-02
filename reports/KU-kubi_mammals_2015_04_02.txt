@@ -1,0 +1,333 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 2973
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 8
+	Country: France ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 174
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 5
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 9
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 20
+	Date: 2015-03-06 ; Times: 14
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-09 ; Times: 13
+	Date: 2015-03-10 ; Times: 10
+	Date: 2015-03-11 ; Times: 7
+	Date: 2015-03-12 ; Times: 23
+	Date: 2015-03-13 ; Times: 6
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 12
+	Date: 2015-03-16 ; Times: 8
+	Date: 2015-03-17 ; Times: 15
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 7
+	Date: 2015-03-23 ; Times: 7
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-25 ; Times: 3
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 24
+	Date: 2015-03-28 ; Times: 19
+	Date: 2015-03-29 ; Times: 2
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Scalopus aquaticus stateprovince:"Wisconsin"" ; Times: 1
+	Query: "Sylvilagus Cuba" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 2
+	Query: "Reithrodontomys paradoxus" ; Times: 1
+	Query: "marmota baibacina" ; Times: 3
+	Query: "echimyidae stateprovince:"loreto" country:"peru"" ; Times: 2
+	Query: "catalognumber:3870 institutioncode:ku" ; Times: 1
+	Query: "Myotis ciliolabrum South Dakota (Harding)" ; Times: 1
+	Query: "genus:Natalus year >= 2000" ; Times: 1
+	Query: "collin county" ; Times: 1
+	Query: "stateprovince:"IOWA" specificepithet:aquaticus genus:Scalopus" ; Times: 1
+	Query: "KU 65395" ; Times: 1
+	Query: "KU 65393" ; Times: 1
+	Query: "CALUROMYS philander" ; Times: 5
+	Query: "Sylvilagus floridanus Cuba" ; Times: 2
+	Query: "Philander opossum venezuela" ; Times: 3
+	Query: "Chiroptera (chiroptera or bats or bat) year >= 1500 year <= 2015" ; Times: 1
+	Query: "catalognumber:3871 institutioncode:ku" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys tissue:1" ; Times: 1
+	Query: "Reithrodontomys sumichrasti stateprovince:"Cartago" country:"Costa Rica" specificepithet:sumichrasti genus:Reithrodontomys class:Mammalia year >= 1900 year <= 2020" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Spermophilus major specificepithet:major" ; Times: 1
+	Query: "genus:megaderma year >= 2000" ; Times: 1
+	Query: "pica institutioncode:KU tissue:1" ; Times: 1
+	Query: "Sylvilagus floridanus South Dakota (Harding)" ; Times: 1
+	Query: "Myotis volans South Dakota (Harding)" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"South Dakota"" ; Times: 1
+	Query: "FMNH Equidae" ; Times: 1
+	Query: "MICOUREUS DEMERARAE" ; Times: 1
+	Query: "Pteronotus parnellii country:"Cuba"" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "catalognumber:2165 institutioncode:ku" ; Times: 1
+	Query: "KU 155513" ; Times: 1
+	Query: "catalognumber:51975 institutioncode:ku" ; Times: 1
+	Query: "genus:scotophilus tissue:1" ; Times: 1
+	Query: "Reithrodontomys brevirostris" ; Times: 3
+	Query: "varecia" ; Times: 1
+	Query: "Oryctolagus Cuba" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+	Query: "spermophilus musicus" ; Times: 2
+	Query: "peromyscus melanotis tissue:1" ; Times: 1
+	Query: "florence arizona" ; Times: 1
+	Query: "vulpes velox" ; Times: 1
+	Query: "spermophilus pallidicauda" ; Times: 4
+	Query: "peromyscus melanotis type:specimen tissue:1" ; Times: 1
+	Query: "cavia aperea" ; Times: 3
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: ""Procyon lotor" county:"Mills"" ; Times: 1
+	Query: "pygoderma tissue:1" ; Times: 1
+	Query: "Sciurus aureogaster tissue:1" ; Times: 1
+	Query: "KU 65372" ; Times: 1
+	Query: "CALUROMYS LANATUS" ; Times: 4
+	Query: "megalotis South Dakota (Harding)" ; Times: 1
+	Query: "KU 65375" ; Times: 1
+	Query: "Vombatus ursinus (skeleton)" ; Times: 1
+	Query: "Sorex arcticus distance(location,geopoint(47.040182144806664,-102.041015625))<100000" ; Times: 1
+	Query: "KU 65379" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "stateprovince:"Louisiana" genus:Blarina tissue:1" ; Times: 1
+	Query: "Grammomys tissue:1" ; Times: 3
+	Query: "pica pica institutioncode:KU tissue:1" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys tissue:1" ; Times: 1
+	Query: "specificepithet:russatus genus:Batomys" ; Times: 2
+	Query: "KU 97512" ; Times: 1
+	Query: "specificepithet:caudivarius genus:thomasomys" ; Times: 1
+	Query: "Sorex merriami distance(location,geopoint(47.18971246448421,-103.68896484375))<153179" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "Tamias minimus stateprovince:"North Dakota"" ; Times: 1
+	Query: "Panthera onca United States" ; Times: 2
+	Query: "KU 97519" ; Times: 1
+	Query: "specificepithet:cinnameus genus:thomasomys" ; Times: 1
+	Query: "myotis austroriparius tissue:1" ; Times: 1
+	Query: "sciurus griseus nigripes (baculum)" ; Times: 1
+	Query: "Corynorhinus townsendii South Dakota (Harding)" ; Times: 1
+	Query: "aotus tissue:1" ; Times: 1
+	Query: "(Natalus) tissue:1" ; Times: 1
+	Query: "Microtus lusitanicus" ; Times: 1
+	Query: "catalognumber:28909 institutioncode:KU" ; Times: 1
+	Query: "KU 97595" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Wyoming"" ; Times: 2
+	Query: "Pica institutioncode:KU tissue:1" ; Times: 1
+	Query: "genus:Rhinopoma tissue:1" ; Times: 1
+	Query: "specificepithet:hurrianae genus:Meriones tissue:1" ; Times: 1
+	Query: "genus:proteles" ; Times: 1
+	Query: "syria" ; Times: 1
+	Query: "monodelphis adusta" ; Times: 1
+	Query: "ku 121341" ; Times: 1
+	Query: "Boylii Santa Cruz Co" ; Times: 1
+	Query: "KU 97505" ; Times: 1
+	Query: "spermophilus pygmaeus" ; Times: 3
+	Query: "mvz tamiasciurus hudsonicus tissue:1" ; Times: 1
+	Query: "KU 103220" ; Times: 1
+	Query: "pueblo nuevo venezuela" ; Times: 1
+	Query: "Ctenomys frater" ; Times: 1
+	Query: "specificepithet:hurrianae genus:Meriones" ; Times: 1
+	Query: "townsendii South Dakota (Harding)" ; Times: 1
+	Query: "sciurus carolinensis type:specimen year <= 2015 tissue:1" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "bulla" ; Times: 1
+	Query: "catalognumber:21655 institutioncode:KU" ; Times: 1
+	Query: "KU 41411" ; Times: 1
+	Query: "catalognumber:134655 institutioncode:ku" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "Chiroptera country:"Brazil" (chiroptera or bats or bat) year >= 1500 year <= 2015" ; Times: 1
+	Query: "pectoralis KU 11" ; Times: 1
+	Query: "Reithrodontomys rodriguezi" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Connecticut"" ; Times: 1
+	Query: "KU 42613" ; Times: 1
+	Query: "monodelphis brevicaudata" ; Times: 1
+	Query: "specificepithet:curtatus genus:Lemmiscus (Skeleton)" ; Times: 1
+	Query: "catalognumber:145980 institutioncode:ku" ; Times: 1
+	Query: "rabbit Cuba" ; Times: 1
+	Query: "Lasionycteris Montana" ; Times: 1
+	Query: "ludovicianus South Dakota (Harding)" ; Times: 1
+	Query: "Lasiurus borealis frantzii" ; Times: 1
+	Query: "KU 65414" ; Times: 1
+	Query: "Puma yagouaroundi country:"mexico"" ; Times: 1
+	Query: "maniculatus South Dakota (Harding)" ; Times: 1
+	Query: "specificepithet:macleayii genus:Pteronotus" ; Times: 1
+	Query: "spermophilus relictus" ; Times: 4
+	Query: "Euchoreutes" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Minnesota"" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "KU 65381" ; Times: 1
+	Query: "panthera onca country:"mexico"" ; Times: 1
+	Query: "Spermophilus major" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "Spermophilus fulvus" ; Times: 4
+	Query: "specificepithet:gymnonotus genus:Pteronotus" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys tissue:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "KU 97487" ; Times: 1
+	Query: "spermophilus major" ; Times: 1
+	Query: "chiroptera mali" ; Times: 1
+	Query: "didelphis pernigra" ; Times: 2
+	Query: "sylvilagus dicei" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "Psammophilus tissue:1" ; Times: 1
+	Query: "specificepithet:pusillus genus:Gerbillus" ; Times: 2
+	Query: "KU 61871" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Illinois"" ; Times: 1
+	Query: "KU 97497" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "KU 97495" ; Times: 1
+	Query: "panthera pardus" ; Times: 23
+	Query: "KU 97493" ; Times: 1
+	Query: "KU 65380" ; Times: 1
+	Query: "KU 65374" ; Times: 1
+	Query: "country:"usa" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "KU 97498" ; Times: 1
+	Query: "bos sauveli" ; Times: 2
+	Query: "Mammalia Natrona" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Odocoileus virginianus year >= 1990 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 298 download events in this period)
+Total number of records downloaded: 52520 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 49190
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 5
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-07 ; Times: 4
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 6
+	Date: 2015-03-16 ; Times: 9
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "chiroptera uganda" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "Corynorhinus townsendii pallescens" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"North Carolina"" ; Times: 1
+	Query: "chiroptera zambia" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "pygoderma tissue:1" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Ctenomys frater" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "mammalia stateprovince:"QUERETARO" country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "sciurus carolinensis type:specimen year <= 2015 tissue:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Tennessee"" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "genus:Alticola" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "Myotis melanorhinus nevada" ; Times: 1
+	Query: ""Neotoma cinerea" institutioncode:ku" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Sciurus aureogaster tissue:1" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "chiroptera Guinea africa" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Sciurus (black OR melan*) tissue:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:gregalis genus:Microtus" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"New York"" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"South Carolina"" ; Times: 1
+	Query: "chiroptera zimbabwe" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+	Query: "mammalia stateprovince:"guanajuato" country:"mexico" year <= 2015 mappable:1" ; Times: 2
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "genus:Sciurus (black OR melan* OR dark) tissue:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3546
+Total number of records retrieved from searches: 62486
+Number of download events that retrieved data from the resource: 280
+Total number of records downloaded: 343608
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4110
+Total number of records retrieved from searches: 69646
+Number of download events that retrieved data from the resource: 1222
+Total number of records downloaded: 1158062
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
