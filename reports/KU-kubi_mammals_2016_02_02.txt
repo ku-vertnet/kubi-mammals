@@ -1,0 +1,340 @@
+Report for Institution Code KU, Resource KUM
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 359
+Number of records retrieved in searches: 11874
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 120
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 7
+	Country: United States ; Times: 75
+	Country: Unknown ; Times: 140
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-04 ; Times: 8
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-06 ; Times: 8
+	Date: 2016-01-07 ; Times: 15
+	Date: 2016-01-08 ; Times: 8
+	Date: 2016-01-09 ; Times: 7
+	Date: 2016-01-11 ; Times: 16
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 8
+	Date: 2016-01-14 ; Times: 45
+	Date: 2016-01-15 ; Times: 26
+	Date: 2016-01-16 ; Times: 4
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-18 ; Times: 50
+	Date: 2016-01-19 ; Times: 29
+	Date: 2016-01-20 ; Times: 7
+	Date: 2016-01-21 ; Times: 15
+	Date: 2016-01-22 ; Times: 8
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-25 ; Times: 21
+	Date: 2016-01-26 ; Times: 17
+	Date: 2016-01-27 ; Times: 9
+	Date: 2016-01-28 ; Times: 6
+	Date: 2016-01-29 ; Times: 8
+	Date: 2016-01-30 ; Times: 5
+	Date: 2016-01-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "echimys" ; Times: 1
+	Query: "ku 28089" ; Times: 1
+	Query: "Myoprocta" ; Times: 2
+	Query: "distance(location,geopoint(24.329036,-107.067516))<15000" ; Times: 1
+	Query: "KU 36318" ; Times: 1
+	Query: "genus:Sorex stateprovince:"Oregon" institutioncode:KU" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "141519 ku" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "monodelphis SOREX" ; Times: 13
+	Query: "ailurus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "afghanus" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year>=1900" ; Times: 1
+	Query: "specificepithet:rudinoris genus:Chaetodipus stateprovince:"California"" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Choeronycteris mexicana and Arizona" ; Times: 2
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "Myotis volans Nebraska" ; Times: 2
+	Query: "genus:Apomys family:Muridae" ; Times: 2
+	Query: "nycticeius humeralis mexico" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "141371 ku" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "141518 ku" ; Times: 2
+	Query: "class:mammalia county:"Knox" stateprovince:"Tennessee" mappable:1" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:"mexico" year >= 1960 year <= 2015" ; Times: 7
+	Query: "Muridae type:specimen country:"USA" (skeleton)" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "Lasiurus cinereus Nebraska" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))<15000" ; Times: 1
+	Query: "Lasiurus borealis Nebraska" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "ku 19868" ; Times: 1
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "wisconsin tamiasciurus" ; Times: 1
+	Query: "KU 79355" ; Times: 1
+	Query: "loreto echimyidae" ; Times: 1
+	Query: "mmnh tamiasciurus" ; Times: 1
+	Query: "sundamys" ; Times: 1
+	Query: "130422 ku" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Galea" ; Times: 1
+	Query: "ku 1703" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "connochaetes" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.557516))<15000" ; Times: 1
+	Query: "oryzomys chapmani" ; Times: 48
+	Query: "KU 90079" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))<15000" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 5
+	Query: "Dipodomys merriami collinus type:specimen mappable:1" ; Times: 1
+	Query: "KU 47023" ; Times: 1
+	Query: "oryzomys chapmani country:"mexico"" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skeleton skull)" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "ku 28150" ; Times: 1
+	Query: "BM 1897-1-11-10" ; Times: 1
+	Query: "Lonchophylla pattoni" ; Times: 1
+	Query: "specificepithet:simulans genus:Dipodomys county:"San Diego"" ; Times: 1
+	Query: "Batomys salomonseni" ; Times: 2
+	Query: "suaveolens" ; Times: 1
+	Query: "ku 5572" ; Times: 1
+	Query: "lasiurus stateprovince:"utah"" ; Times: 1
+	Query: "CAENOLESTES" ; Times: 5
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "Eptesicus Nebraska" ; Times: 3
+	Query: "distance(location,geopoint(23.819036,-109.957516))<15000" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skeleton)" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "oryzomys saturatior" ; Times: 2
+	Query: "tarsomys tissue:1" ; Times: 1
+	Query: "ku 16922" ; Times: 1
+	Query: "Nycticeius Nebraska" ; Times: 2
+	Query: "oryzomys saturatior country:"mexico"" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))<15000" ; Times: 1
+	Query: "county:"Ashland" stateprovince:"Wisconsin"" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 5
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "ku 5279" ; Times: 1
+	Query: "megasorex nayarit" ; Times: 2
+	Query: "Anoura cultrata" ; Times: 1
+	Query: "Loxodonta "africana" mappable:1" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "116441" ; Times: 1
+	Query: "suaveolens type:specimen" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "dipodomys heermanni (Kern County)" ; Times: 1
+	Query: "distance(location,geopoint(26.369036,-108.767516))<15000" ; Times: 1
+	Query: "oryzomys saturatior type:specimen country:"mexico"" ; Times: 1
+	Query: "Suricatta" ; Times: 1
+	Query: "lasiurus borealis stateprovince:"Nebraska"" ; Times: 1
+	Query: "catalognumber:19248 institutioncode:KU" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "21381" ; Times: 1
+	Query: "Roaring River stateprovince:"Missouri"" ; Times: 1
+	Query: "genus:Neotoma stateprovince:"Tennessee"" ; Times: 1
+	Query: "Phylloderma" ; Times: 2
+	Query: "notiosorex chihuahua" ; Times: 1
+	Query: "genus:Canis order:Carnivora (North Carolina)" ; Times: 1
+	Query: "notiosorex crawfordi mexico" ; Times: 1
+	Query: "Oryzomys saturatior" ; Times: 23
+	Query: "108529" ; Times: 1
+	Query: "catalognumber:10975 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.557516))<15000" ; Times: 1
+	Query: "catalognumber:8850 institutioncode:KU" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 57
+	Query: "dasymys" ; Times: 1
+	Query: "oryzomys saturatior type:specimen country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Dipodomys merriami collinus" ; Times: 1
+	Query: "county:"Franklin" stateprovince:"Arkansas"" ; Times: 1
+	Query: "paraechinus hypomelas" ; Times: 1
+	Query: "rattus everetti tissue:1" ; Times: 1
+	Query: "Euderma stateprovince:"New Mexico"" ; Times: 1
+	Query: "class:mammalia county:"Sedgwick" stateprovince:"Kansas" mappable:1" ; Times: 1
+	Query: "ku 24129" ; Times: 1
+	Query: "Puma concolor Arizona" ; Times: 2
+	Query: "Nycticeius humeralis nebraska" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Inia type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-106.047516))<15000" ; Times: 1
+	Query: "canis aureus" ; Times: 3
+	Query: "ku 19761" ; Times: 2
+	Query: "ku 112525" ; Times: 1
+	Query: "Kansas 24009" ; Times: 1
+	Query: "ku 5552" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "Sorex palustris stateprovince:"Tennessee"" ; Times: 1
+	Query: "sundamys tissue:1" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "Lasiurus Nebraska" ; Times: 1
+	Query: "conventry" ; Times: 2
+	Query: "58820" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-109.277516))<15000" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius country:"mexico"" ; Times: 3
+	Query: "Panthera tigris" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "Kansas 24010" ; Times: 1
+	Query: "KU 164688" ; Times: 1
+	Query: "sorex palustris stateprovince:"Tennessee"" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "ku 67738" ; Times: 1
+	Query: "azarae ku" ; Times: 1
+	Query: "Eptesicus fuscus Nebraska" ; Times: 2
+	Query: "specificepithet:californicus genus:Chaetodipus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "catalognumber:68921 institutioncode:KU" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 507 download events in this period)
+Total number of records downloaded: 32334 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 27754
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 66
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-30 ; Times: 7
+	Date: 2016-01-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "oryzomys chapmani" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "genus:Sorex county:"Benton" stateprovince:"Oregon"" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 2
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Muridae type:specimen country:"USA" (skeleton)" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 2
+	Query: "Muridae type:specimen country:"USA"" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "country:"Mongolia" institutioncode:KU" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))<87926.45562583183" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "paraechinus hypomelas" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "genus:Sorex county:"Linn" stateprovince:"Oregon"" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))<19662" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 83
+Total number of records downloaded: 32334
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 359
+Total number of records retrieved from searches: 11874
+Number of download events that retrieved data from the resource: 83
+Total number of records downloaded: 32334
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
