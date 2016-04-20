@@ -1,0 +1,206 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 3719
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: Russia ; Times: 4
+	Country: United States ; Times: 118
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-11 ; Times: 35
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-06 ; Times: 13
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 6
+	Date: 2016-03-05 ; Times: 24
+	Date: 2016-03-02 ; Times: 15
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lasionycteris stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "Marmota broweri" ; Times: 2
+	Query: "Thomomys idahoensis usa" ; Times: 1
+	Query: "order:primates locality:MINATITLAN stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "leopardus pajeros" ; Times: 1
+	Query: "recordedby:b heinrich" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "N. McIntyre" ; Times: 1
+	Query: "microtus guatemalensis" ; Times: 4
+	Query: "mustela frenata institutioncode:KU" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Bodley" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia recordedby:Bodley institutioncode:KU" ; Times: 1
+	Query: "lepus americanus institutioncode:KU" ; Times: 1
+	Query: "leopardus PAJEROS" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "order:primates stateprovince:&#34;Managua&#34; country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:nycticeius institutioncode:KU" ; Times: 3
+	Query: "recordedby:Bodley institutioncode:KU" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "baubellum" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "stateprovince:&#34;Sinaloa&#34; recordedby:Bodley" ; Times: 1
+	Query: "family:procyonidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "KU 68077" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:bodley" ; Times: 1
+	Query: "Nyctereutes type:specimen institutioncode:KU" ; Times: 1
+	Query: "urocitellus mollis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "otospermophilus variegatus UMNH" ; Times: 1
+	Query: "mustela erminea institutioncode:KU" ; Times: 1
+	Query: "Thomomys mazama couchi" ; Times: 1
+	Query: "KU KUM 39323" ; Times: 1
+	Query: "mustela nivalis institutioncode:KU" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis institutioncode:KU" ; Times: 1
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "genus:spilogale family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Crocidura monticola" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:acinonyx family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "order:primates locality:JESUS CARRANZA stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;atlantida&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 2
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:heinrich" ; Times: 1
+	Query: "Crateromys" ; Times: 3
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dipodomys ingens year &gt;= 1800 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "genus:Glossophaga family:Phyllostomidae order:Chiroptera class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "catalognumber:104086 institutioncode:KU" ; Times: 2
+	Query: "Ichneumia" ; Times: 2
+	Query: "recordedby:Bodley year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "neotoma lepida colorado" ; Times: 1
+	Query: "genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "neotoma lepida utah" ; Times: 1
+	Query: "KU 87117" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis recordedby:Tuttle institutioncode:KU" ; Times: 1
+	Query: "KU 44567" ; Times: 1
+	Query: "order:primates stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "lepus townsendii institutioncode:KU" ; Times: 1
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "KU 108426" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "urocitellus mollis" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960" ; Times: 1
+	Query: "genus:felis family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34; year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 2
+	Query: "(yehuin)" ; Times: 1
+	Query: "phodopus sungorus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:69031 institutioncode:KU" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 3
+	Query: "class:mammalia recordedby:Bodley year &gt;= 1959 year &lt;= 1960" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 2
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 9
+	Query: "KU 140421" ; Times: 2
+	Query: "catalognumber:135065 institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 230 download events in this period)
+Total number of records downloaded: 182271
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: United States ; Times: 51
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-08 ; Times: 8
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tissue" ; Times: 35
+	Query: "dasyurus" ; Times: 1
+	Query: "lepus townsendii institutioncode:KU" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Microdipodops locality:Halleck" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "mustela frenata institutioncode:KU" ; Times: 1
+	Query: "Tamazulapan stateprovince:&#34;Oaxaca&#34; mappable:1" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "urocitellus mollis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mustela erminea institutioncode:KU" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Bodley type:specimen" ; Times: 1
+
+
+End of report.
