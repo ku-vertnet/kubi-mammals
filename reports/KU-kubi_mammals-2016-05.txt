@@ -1,0 +1,268 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 3426
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 52
+	Country: Unknown ; Times: 6
+	Country: Costa Rica ; Times: 7
+	Country: France ; Times: 4
+	Country: United States ; Times: 114
+	Country: Germany ; Times: 10
+	Country: Colombia ; Times: 20
+	Country: Denmark ; Times: 3
+	Country: New Zealand ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 15
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 4
+	Date: 2016-05-15 ; Times: 19
+	Date: 2016-05-14 ; Times: 7
+	Date: 2016-05-13 ; Times: 12
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 5
+	Date: 2016-05-10 ; Times: 11
+	Date: 2016-05-31 ; Times: 31
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 5
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 9
+	Date: 2016-05-04 ; Times: 5
+	Date: 2016-05-05 ; Times: 12
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 8
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-27 ; Times: 5
+	Date: 2016-05-24 ; Times: 17
+	Date: 2016-05-25 ; Times: 7
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-23 ; Times: 9
+	Date: 2016-05-20 ; Times: 6
+	Date: 2016-05-21 ; Times: 6
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode: KU 131747" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 12
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Marmota sibirica" ; Times: 3
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Tylomys watsoni" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "KU 75948" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:24559 institutioncode:KU" ; Times: 1
+	Query: "tamaulipas cueva" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 2
+	Query: "petaurista philippensis" ; Times: 1
+	Query: "Danta" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "panthera onca}" ; Times: 2
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "chiroptera miquihuana" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "recordedby:ESSELSTYN institutioncode:KU" ; Times: 1
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "meles meles" ; Times: 4
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "neotoma massachusetts" ; Times: 4
+	Query: "KU 6745" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "family:Muridae country:&#34;Philippine Islands&#34; institutioncode:KU" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "Graphiurus kelleni" ; Times: 1
+	Query: "KU 113218" ; Times: 3
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "KU 94650" ; Times: 1
+	Query: "ku 99225" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Cebus imitator Panama" ; Times: 1
+	Query: "syntheosciurus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "specificepithet:variegatus class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Puma concolor coryi" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 3
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Dipodomys heermanni institutioncode:KU" ; Times: 1
+	Query: "genus:Trachops institutioncode:KU" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "Canis Latrans type:specimen year &gt;= 1670 year &lt;= 1900" ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "petaurista" ; Times: 2
+	Query: "lontra longicaudis annectens" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "nelsonia goldmani" ; Times: 6
+	Query: "carollia sowelli" ; Times: 3
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "catalognumber:92679 institutioncode:KU" ; Times: 2
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "KU 143107" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Chironectes minimus argyrodytes" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:reithrodontomys country:&#34;costa rica&#34;" ; Times: 2
+	Query: "64234" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 11
+	Query: "Phloeomys preparations:skeleton" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:booth year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "genus:proechimys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.067036,-108.317516))&lt;15000" ; Times: 1
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "KU 142102" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "genus:Sorex county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-108.083516))&lt;15000" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 2
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; specificepithet:clusius genus:thomomys year &gt;= 1930 year &lt;= 2015" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Cebus Panama" ; Times: 1
+	Query: "distance(location,geopoint(29.173036,-105.743516))&lt;15000" ; Times: 1
+	Query: "mustela nigripes" ; Times: 14
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "solenodon paradoxus" ; Times: 2
+	Query: "Organ Cave" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "genus:hoplomys order:rodentia country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "distance(location,geopoint(29.095036,-110.033516))&lt;15000" ; Times: 1
+	Query: "specificepithet:texensis genus:Geomys" ; Times: 1
+	Query: "KU 143212" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "genus:Phylloderma institutioncode:KU" ; Times: 1
+	Query: "Marmota bobak" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:Bodley year &gt;= 1960" ; Times: 1
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34; tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "lontra longicaudis annectens mexico" ; Times: 3
+	Query: "genus:ototylomys country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:monticolus genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "catalognumber:125047 institutioncode:KU" ; Times: 1
+	Query: "Brainard Lake" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "alces americanus" ; Times: 1
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "genus:oligoryzomys institutioncode:KU" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "catalognumber:19927 institutioncode:KU" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "microsciurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 327 download events in this period)
+Total number of records downloaded: 32669
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Antrozous county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "genus:Trachops institutioncode:KU" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
