@@ -1,0 +1,481 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 799
+Number of records retrieved in searches: 8951
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 303
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 97
+	Country: Denmark ; Times: 9
+	Country: Mongolia ; Times: 7
+	Country: France ; Times: 13
+	Country: United States ; Times: 305
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 29
+	Country: Japan ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 48
+	Date: 2016-07-10 ; Times: 32
+	Date: 2016-07-13 ; Times: 30
+	Date: 2016-07-12 ; Times: 40
+	Date: 2016-07-15 ; Times: 19
+	Date: 2016-07-14 ; Times: 30
+	Date: 2016-07-17 ; Times: 21
+	Date: 2016-07-16 ; Times: 9
+	Date: 2016-07-19 ; Times: 33
+	Date: 2016-07-18 ; Times: 58
+	Date: 2016-07-20 ; Times: 49
+	Date: 2016-07-21 ; Times: 30
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-24 ; Times: 13
+	Date: 2016-07-25 ; Times: 31
+	Date: 2016-07-26 ; Times: 38
+	Date: 2016-07-27 ; Times: 67
+	Date: 2016-07-06 ; Times: 30
+	Date: 2016-07-07 ; Times: 42
+	Date: 2016-07-22 ; Times: 29
+	Date: 2016-07-23 ; Times: 7
+	Date: 2016-07-08 ; Times: 55
+	Date: 2016-07-09 ; Times: 25
+	Date: 2016-07-28 ; Times: 43
+	Date: 2016-07-29 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "myospalax" ; Times: 11
+	Query: "catalognumber:154044 institutioncode:KU" ; Times: 2
+	Query: "Dipodomys heermanni berkeleyensis" ; Times: 1
+	Query: "genus:Kerivoula order:Chiroptera tissue:1" ; Times: 2
+	Query: "KU 2049" ; Times: 1
+	Query: "Philander opossum fuscogriseus" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "Caluromys derbianus aztecus" ; Times: 2
+	Query: "distance(location,geopoint(46.9502622421856,100.986328125))&lt;100000" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "procavia" ; Times: 2
+	Query: "zapus missouri" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 6
+	Query: "Ateles geoffroyi geoffroyi" ; Times: 1
+	Query: "KU 52857" ; Times: 2
+	Query: "spalacidae" ; Times: 2
+	Query: "zapus kansas" ; Times: 2
+	Query: "inia" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "bradypus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(17.964800225241323,-90.5712890625))&lt;100000" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:eptesicus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "R-66881" ; Times: 1
+	Query: "Sorex hoyi winnemana" ; Times: 1
+	Query: "jILOTEPEC" ; Times: 1
+	Query: "Cyclopes didactylus dorsalis" ; Times: 1
+	Query: "catalognumber:142869 institutioncode:KU" ; Times: 2
+	Query: "Microsciurus" ; Times: 2
+	Query: "KU 93506" ; Times: 1
+	Query: "KU 2699" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "genus:diclidurus order:Chiroptera tissue:1" ; Times: 1
+	Query: "family:Macroscelididae institutioncode:KU" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "vandeleuria" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(15.65125023211557,-88.9453125))&lt;210992.101511379" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "gbifdatasetid:1d04e739-98a9-4e16-9970-8f8f3bf9e9e3" ; Times: 1
+	Query: "micromys minutus" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "genus:myodes stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "R-69104" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34; mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi yagouaroundi" ; Times: 1
+	Query: "95894" ; Times: 1
+	Query: "panthera onca" ; Times: 17
+	Query: "Dasypus novemcinctus fenestratus" ; Times: 1
+	Query: "choeronycteris mexicana stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "cannomys" ; Times: 2
+	Query: "Glaucomys volans querceti" ; Times: 1
+	Query: "\152624" ; Times: 1
+	Query: "genus:Tylonycteris order:Chiroptera tissue:1" ; Times: 2
+	Query: "peromyscus maniculatus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "genus:ototylomys country:&#34;guatemala&#34; mappable:1" ; Times: 3
+	Query: "Calpulalpan" ; Times: 2
+	Query: "genus:ototylomys distance(location,geopoint(15.65125023211557,-88.9453125))&lt;248675" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "specificepithet:amoenus genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "locality:ocozocoautla stateprovince:&#34;chiapas&#34; year &gt;= 1969 year &lt;= 1970" ; Times: 13
+	Query: "152624" ; Times: 1
+	Query: "class:Mammalia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "neotoma massachusetts" ; Times: 1
+	Query: "Ictidomys mexicanus parvidens" ; Times: 1
+	Query: "Texcoco" ; Times: 1
+	Query: "genus:syconycteris order:Chiroptera tissue:1" ; Times: 1
+	Query: "catalognumber:10366 institutioncode:KU" ; Times: 1
+	Query: "KU 43802" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "JILOTEPEC" ; Times: 1
+	Query: "Philander opossum melanurus" ; Times: 1
+	Query: "59664" ; Times: 1
+	Query: "specificepithet:volans genus:Cynocephalus institutioncode:KU" ; Times: 1
+	Query: "family:Emballonuridae order:Chiroptera tissue:1" ; Times: 1
+	Query: "notocitellus" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Sciurus aureogaster san felipe" ; Times: 1
+	Query: "104370" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "KU 116353" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "chiroptera bahamas" ; Times: 1
+	Query: "class:Mammalia county:&#34;Georgetown&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Sciurus yucatanensis phaeopus" ; Times: 1
+	Query: "Neotomys ebriosus type:specimen family:cricetidae order:rodentia class:mammalia country:&#34;peru&#34;" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "144023" ; Times: 2
+	Query: "class:Mammalia county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "akodon mollis type:specimen class:mammalia country:&#34;peru&#34;" ; Times: 1
+	Query: "Chironectes minimus minimus" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;new hampshire&#34; institutioncode:KU" ; Times: 2
+	Query: "specificepithet:godmani genus:Choeroniscus" ; Times: 2
+	Query: "ACAMBAY" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "69104" ; Times: 1
+	Query: "specificepithet:major genus:Allactaga" ; Times: 1
+	Query: "hovsgol" ; Times: 2
+	Query: "33274" ; Times: 1
+	Query: "specificepithet:pellucida genus:Kerivoula order:Chiroptera tissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Anderson&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "117822" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Caluromys derbianus centralis" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "country:&#34;mexico&#34; (Cyclopes)" ; Times: 1
+	Query: "167613" ; Times: 1
+	Query: "156543" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "class:Mammalia county:&#34;Kershaw&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Caluromys derbianus pallidus" ; Times: 1
+	Query: "victoria chihuahua" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:ototylomys (connectens) mappable:1" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "Caluromys derbianus fervidus" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(15.883854616198759,-89.912109375))&lt;100000" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "Chiroptera Bahamas" ; Times: 1
+	Query: "la mula chihuahua" ; Times: 1
+	Query: "KU 25288" ; Times: 2
+	Query: "class:Mammalia locality:buenos aires sex:male year &gt;= 1900 hassex:1" ; Times: 1
+	Query: "class:Mammalia locality:buenos aires sex:female year &gt;= 1900 year &lt;= 19040" ; Times: 1
+	Query: "genus:calomys class:mammalia institutioncode:KU" ; Times: 1
+	Query: "class:Mammalia county:&#34;Marlboro&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Eira barbara" ; Times: 2
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "distance(location,geopoint(50.1557858853846,99.437255859375))&lt;124134.24407537171" ; Times: 1
+	Query: "Sylvilagus floridanus chapmani" ; Times: 2
+	Query: "Genetta genetta 1" ; Times: 1
+	Query: "distance(location,geopoint(50.79899141148551,99.613037109375))&lt;100000" ; Times: 1
+	Query: "KU 4672" ; Times: 1
+	Query: "locality:Halleck (Microdipodops)" ; Times: 1
+	Query: "specificepithet:volans genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Choeroniscus" ; Times: 1
+	Query: "Sciurus yucatanensis baliolus" ; Times: 1
+	Query: "Cyclopes didactylus mexicanus" ; Times: 1
+	Query: "ochotona macrotis" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 2
+	Query: "macroscelididae" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "genus:Chrysochloris" ; Times: 1
+	Query: "specificepithet:LEUCOPUS genus:PEROMYSCUS stateprovince:&#34;NEW HAMPSHIRE&#34; institutioncode:KU" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 4
+	Query: "eospalax" ; Times: 2
+	Query: "chiroptera country:&#34;bahamas&#34;" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "genus:myodes stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "class:Mammalia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;vermont&#34; institutioncode:KU" ; Times: 2
+	Query: "catalognumber:92679 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:ototylomys country:&#34;nicaragua&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia locality:buenos aires sex:female year &gt;= 1900" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "Peromyscus evides" ; Times: 1
+	Query: "eira barbara KUM" ; Times: 2
+	Query: "mustela nigripes" ; Times: 211
+	Query: "Alouatta palliata" ; Times: 4
+	Query: "1d04e739-98a9-4e16-9970-8f8f3bf9e9e3" ; Times: 1
+	Query: "distance(location,geopoint(51.1586768644237,99.041748046875))&lt;124134" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "Calomys venustus" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 2
+	Query: "genus:emballonura order:Chiroptera tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(50.79899141148551,99.613037109375))&lt;64923" ; Times: 1
+	Query: "Jilotepec" ; Times: 1
+	Query: "Glaucomys volans goldmani" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Oklahoma&#34; mappable:1 distance(location,geopoint(37.71859032558816,-98.173828125))&lt;100000" ; Times: 1
+	Query: "class:Mammalia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "36259" ; Times: 1
+	Query: "78681" ; Times: 1
+	Query: "locality:ocozocoautla year &gt;= 1970 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "la junta chihuahua" ; Times: 1
+	Query: "catalognumber:161206" ; Times: 1
+	Query: "17 MI S LA JUNTA chihuahua" ; Times: 1
+	Query: "Chaetodipus rudinoris" ; Times: 3
+	Query: "specificepithet:subtilis genus:Sicista" ; Times: 1
+	Query: "type:specimen order:rodentia class:mammalia stateprovince:&#34;la libertad&#34;" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 26
+	Query: "class:Mammalia county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Ochotona macrotis" ; Times: 3
+	Query: "Ochotona rutila" ; Times: 1
+	Query: "sciurus anomalus" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "30033" ; Times: 1
+	Query: "R.65002" ; Times: 1
+	Query: "tachyoryctes" ; Times: 1
+	Query: "Sylvilagus floridanus holzneri" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 105
+	Query: "Cyclopes didactylus didactylus" ; Times: 1
+	Query: "Sciurus yucatanensis" ; Times: 1
+	Query: "upper peninsula michigan" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(14.909400447229379,-88.1103515625))&lt;286113" ; Times: 3
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "&#34;lasiurus blossevillii&#34;" ; Times: 2
+	Query: "genus:saccolaimus order:Chiroptera tissue:1" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(15.883854616198759,-89.912109375))&lt;229389" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Pickens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:KU" ; Times: 1
+	Query: "Glaucomys volans oaxacensis" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Dasypus novemcinctus mexicanus" ; Times: 1
+	Query: "Chironectes minimus panamensis" ; Times: 1
+	Query: "Glaucomys volans texensis" ; Times: 1
+	Query: "tocuina chihuahua" ; Times: 1
+	Query: "catalognumber:80029" ; Times: 2
+	Query: "eira barbara" ; Times: 5
+	Query: "county:&#34;washington&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "peromyscus maniculatus stateprovince:&#34;Oklahoma&#34; mappable:1 distance(location,geopoint(36.68604127658193,-95.987548828125))&lt;71835" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(14.909400447229379,-88.1103515625))&lt;229388.96570762043" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "74206" ; Times: 3
+	Query: "genus:Zapus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tamandua mexicana mexicana" ; Times: 1
+	Query: "class:Mammalia locality:buenos aires sex:female" ; Times: 1
+	Query: "bradypus country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "Ateles geoffroyi yucatanensis" ; Times: 2
+	Query: "dendrohyrax" ; Times: 3
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "class:Mammalia county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ochotona pusilla" ; Times: 8
+	Query: "class:Mammalia locality:buenos aires sex:female year &gt;= 1900 hassex:1" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:KU" ; Times: 2
+	Query: "Glaucomys volans saturatus" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "institutioncode: KU 24341" ; Times: 1
+	Query: "institutioncode: KU 24340" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Nycticebus" ; Times: 2
+	Query: "catalognumber:142870 institutioncode:KU" ; Times: 2
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "Caluromys derbianus derbianus" ; Times: 1
+	Query: "12159" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 4
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "institutioncode: KU 127247" ; Times: 1
+	Query: "genus:macroglossus order:Chiroptera tissue:1" ; Times: 1
+	Query: "Sciurus carolinensis stateprovince:&#34;New York&#34; year &gt;= 1986 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;new hampshire&#34; institutioncode:KU" ; Times: 2
+	Query: "genus:Pipistrellus order:Chiroptera tissue:1" ; Times: 1
+	Query: "sorex preblei" ; Times: 10
+	Query: "52755" ; Times: 1
+	Query: "ochotona pusilla" ; Times: 2
+	Query: "class:Mammalia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Tierra Colorada" ; Times: 1
+	Query: "catalognumber:10749 institutioncode:KU" ; Times: 2
+	Query: "Eira barbara KUM" ; Times: 1
+	Query: "catalognumber:49041" ; Times: 1
+	Query: "oligoryzomys type:specimen class:mammalia country:&#34;peru&#34;" ; Times: 1
+	Query: "class:Mammalia locality:buenos aires sex:male year &gt;= 1900" ; Times: 1
+	Query: "Philander opossum canus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "Sciurus aureogaster oaxaca" ; Times: 1
+	Query: "kogia" ; Times: 2
+	Query: "genus:ototylomys distance(location,geopoint(17.881174852189684,-89.912109375))&lt;100000" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:86029" ; Times: 1
+	Query: "Acambay" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "Sciurus yucatanensis yucatanensis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "specificepithet:severtzovi genus:Allactaga" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 8
+	Query: "140561" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 220 (out of 1219 download events in this period)
+Total number of records downloaded: 305797
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 4
+	Country: Mongolia ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 80
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 12
+	Date: 2016-07-10 ; Times: 12
+	Date: 2016-07-13 ; Times: 13
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 9
+	Date: 2016-07-14 ; Times: 8
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 9
+	Date: 2016-07-18 ; Times: 12
+	Date: 2016-07-20 ; Times: 6
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-24 ; Times: 6
+	Date: 2016-07-25 ; Times: 8
+	Date: 2016-07-26 ; Times: 16
+	Date: 2016-07-27 ; Times: 7
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-21 ; Times: 27
+	Date: 2016-07-22 ; Times: 5
+	Date: 2016-07-23 ; Times: 3
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 14
+	Date: 2016-07-28 ; Times: 10
+	Date: 2016-07-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "Dipodomys heermanni berkeleyensis" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "Choeroniscus" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "Oryzomys albigularis" ; Times: 1
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "notocitellus" ; Times: 1
+	Query: "Jilotepec" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "Suncus murinus type:specimen" ; Times: 1
+	Query: "spalacidae" ; Times: 1
+	Query: "locality:ocozocoautla" ; Times: 1
+	Query: "Molossus tissue:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "class:Mammalia locality:buenos aires year &gt;= 1900 hassex:1" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "Texcoco" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "Acambay" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:godmani genus:Choeroniscus" ; Times: 1
+	Query: "Ochotona pusilla" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "hovsgol" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "choloepus hoffmanni" ; Times: 3
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "Onychomys torridus New Mexico" ; Times: 1
+	Query: "Vulpes macrotis new mexico" ; Times: 1
+	Query: "molossus pretiosus" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1895 year &lt;= 1950" ; Times: 1
+	Query: "genus:Saguinus mappable:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 8
+	Query: "sorex preblei" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Notiosorex crawfordi type:specimen" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Otospermophilus beecheyi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "Ochotona rutila" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "&#34;Otospermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "Vulpes New Mexico" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 2
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 3
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+
+
+End of report.
