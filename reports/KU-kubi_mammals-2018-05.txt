@@ -1,0 +1,557 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 675
+Number of records retrieved in searches: 7595
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 26
+	Country: Colombia ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 53
+	Country: Tunisia ; Times: 4
+	Country: Unknown ; Times: 46
+	Country: Singapore ; Times: 3
+	Country: India ; Times: 3
+	Country: France ; Times: 9
+	Country: United States ; Times: 477
+	Country: Guatemala ; Times: 1
+	Country: Finland ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: China ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 6
+	Date: 2018-05-29 ; Times: 48
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 26
+	Date: 2018-05-22 ; Times: 24
+	Date: 2018-05-23 ; Times: 15
+	Date: 2018-05-24 ; Times: 22
+	Date: 2018-05-25 ; Times: 25
+	Date: 2018-05-26 ; Times: 10
+	Date: 2018-05-27 ; Times: 7
+	Date: 2018-05-06 ; Times: 13
+	Date: 2018-05-07 ; Times: 60
+	Date: 2018-05-04 ; Times: 24
+	Date: 2018-05-05 ; Times: 6
+	Date: 2018-05-02 ; Times: 6
+	Date: 2018-05-03 ; Times: 15
+	Date: 2018-05-01 ; Times: 9
+	Date: 2018-05-08 ; Times: 26
+	Date: 2018-05-09 ; Times: 23
+	Date: 2018-05-31 ; Times: 25
+	Date: 2018-05-30 ; Times: 30
+	Date: 2018-05-15 ; Times: 19
+	Date: 2018-05-14 ; Times: 17
+	Date: 2018-05-17 ; Times: 39
+	Date: 2018-05-16 ; Times: 48
+	Date: 2018-05-11 ; Times: 20
+	Date: 2018-05-10 ; Times: 32
+	Date: 2018-05-13 ; Times: 8
+	Date: 2018-05-12 ; Times: 7
+	Date: 2018-05-19 ; Times: 54
+	Date: 2018-05-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "KU 147241" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "distance(location,geopoint(45.2521729495,-92.422245926))&lt;19803" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "Rhynchomys" ; Times: 4
+	Query: "specificepithet:pinetis genus:Geomys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "distance(location,geopoint(43.9584463493511,-95.1858499928992))&lt;39197" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;suffolk&#34; institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(43.3984812210001,-95.150234134))&lt;22083" ; Times: 2
+	Query: "distance(location,geopoint(45.2821609080001,-95.686562195))&lt;36869" ; Times: 2
+	Query: "Panthera onca" ; Times: 4
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "catalognumber:95649 institutioncode:KU" ; Times: 1
+	Query: "amatlan" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:KU" ; Times: 1
+	Query: "37184" ; Times: 1
+	Query: "Centronycteris centralis" ; Times: 2
+	Query: "country:Ecuador scientificname:Hsunycteris thomasi " ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;pennsylvania&#34; institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(41.4408871659562,-95.9614754317952))&lt;18889" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus country:&#34;canada&#34; institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "Lasiurus ega stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999 institutioncode:KU" ; Times: 1
+	Query: "ku 11337" ; Times: 1
+	Query: "KU 96982" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "ku 146844" ; Times: 2
+	Query: "ku 146845" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 14
+	Query: "KU 28581" ; Times: 1
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 2
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 6
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "ku 17776" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "country:&#34;Peru&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:KU" ; Times: 1
+	Query: "ku 116353" ; Times: 1
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 3
+	Query: "locality:steens recordedby:jewett" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus mappable:1" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "distance(location,geopoint(29.6913633355,-96.265222723))&lt;9047" ; Times: 1
+	Query: "distance(location,geopoint(45.4726993784101,-93.738240342895))&lt;25496" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "carollia sowelli" ; Times: 1
+	Query: "chinchilla" ; Times: 1
+	Query: "distance(location,geopoint(41.5636378550001,-93.2740433419999))&lt;5425" ; Times: 2
+	Query: "KU 163275" ; Times: 2
+	Query: "distance(location,geopoint(45.2418073976384,-96.3615879541276))&lt;21471" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(43.1568148048088,-94.9628162599623))&lt;22978" ; Times: 1
+	Query: "Lasiurus intermedius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Martin Patagonia" ; Times: 1
+	Query: "KU 12389" ; Times: 1
+	Query: "Rhogeessa mira" ; Times: 1
+	Query: "distance(location,geopoint(44.824335823,-93.2719965115))&lt;6844" ; Times: 2
+	Query: "ku 10258" ; Times: 1
+	Query: "KU 98891" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "KU 10979" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;queens&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Hemitragus" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new jersey&#34; institutioncode:KU" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "KU 12650" ; Times: 1
+	Query: "vampyrum" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 2
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "ku 15358" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "Cryptotis thomasi" ; Times: 1
+	Query: "island specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; institutioncode:KU" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 2
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 2
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 1
+	Query: "Crateromys heaneyi" ; Times: 2
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tamias minimus caniceps" ; Times: 1
+	Query: "catalognumber:7927 institutioncode:KU" ; Times: 1
+	Query: "ku 138232" ; Times: 2
+	Query: "155132" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "ku 17734" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "KU 93506" ; Times: 1
+	Query: "KU 94118" ; Times: 2
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "vntype:specimen continent:NORTH AMERICA recordedby:ARMSTRONG year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:KU" ; Times: 1
+	Query: "ku 14146" ; Times: 1
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 2
+	Query: "specificepithet:finlaysonii genus:Callosciurus mappable:1" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "KU 5929" ; Times: 1
+	Query: "Cynomops mexicanus" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "ku 23169" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus institutioncode:KU" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:KU" ; Times: 1
+	Query: "Cabassous" ; Times: 4
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "distance(location,geopoint(39.6074941005,-93.185287453))&lt;6409" ; Times: 2
+	Query: "distance(location,geopoint(42.841622107,-93.677619575))&lt;6905" ; Times: 2
+	Query: "peromyscus stirtoni" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "specificepithet:Lateralis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "genus:molossus locality:sola stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "Cryptotis colombianus" ; Times: 6
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia continent:North America recordedby:Saunders institutioncode:KU" ; Times: 1
+	Query: "catalognumber:45893 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "KU 14269" ; Times: 1
+	Query: "Dipodomys Washoe county" ; Times: 2
+	Query: "genus:Monodelphis stateprovince:&#34;Loreto&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 3
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.9584544995,-95.1857501855))&lt;25378" ; Times: 2
+	Query: "distance(location,geopoint(40.087623764,-95.250936498))&lt;5303" ; Times: 2
+	Query: "KU 96900" ; Times: 1
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:peregusna genus:Vormela" ; Times: 1
+	Query: "Clark county Stephensi" ; Times: 1
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis caucensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "SS 822" ; Times: 1
+	Query: "distance(location,geopoint(45.7638797805,-96.6239940795))&lt;23445" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;Costa Rica&#34; institutioncode:KU" ; Times: 1
+	Query: "KU 29128" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 2
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "KU 125227" ; Times: 2
+	Query: "ku 23121" ; Times: 3
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1950 year &lt;= 1959 institutioncode:KU" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "KU 17707" ; Times: 1
+	Query: "KU 7250" ; Times: 2
+	Query: "KU 17701" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maryland&#34; institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "ku 10246" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 2
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "ku 25627" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34; institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "ku 12660" ; Times: 1
+	Query: "distance(location,geopoint(43.3815418140001,-94.728425285))&lt;18964" ; Times: 2
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 2
+	Query: "KU 5079" ; Times: 2
+	Query: "KU 123283" ; Times: 2
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:KU" ; Times: 1
+	Query: "ku 93510" ; Times: 2
+	Query: "distance(location,geopoint(41.5160441908394,-96.0198408340023))&lt;18975" ; Times: 1
+	Query: "distance(location,geopoint(43.3984914053276,-95.1502012035874))&lt;35967" ; Times: 1
+	Query: "afghanus" ; Times: 1
+	Query: "distance(location,geopoint(45.9339361265001,-95.975625537))&lt;25696" ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 4
+	Query: "specificepithet:nubicolens genus:heteromys" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "ku 169747" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "chrotomys" ; Times: 3
+	Query: "ku 17723" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "distance(location,geopoint(43.4627014044271,-94.24568022136))&lt;9884" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919 institutioncode:KU" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "marshalltown iowa" ; Times: 1
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "KU 12359" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "KU 5932" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "distance(location,geopoint(42.9047169013261,-94.9236653676191))&lt;15109" ; Times: 2
+	Query: "genus:Rhogeessa country:&#34;Nicaragua&#34;" ; Times: 3
+	Query: "genus:Bison stateprovince:&#34;Oklahoma&#34; year &gt;= 1860 year &lt;= 1920" ; Times: 1
+	Query: "distance(location,geopoint(48.3463811540162,-95.9340218018966))&lt;27697" ; Times: 2
+	Query: "specificepithet:anomalus genus:Sciurus mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "KU 10417" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "angustirostris KU" ; Times: 2
+	Query: "ku 25669" ; Times: 1
+	Query: "ku angustirostris" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "KU 20262" ; Times: 1
+	Query: "KU 18089" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "catalognumber:47506 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 2
+	Query: "distance(location,geopoint(45.5861773815354,-95.991834180909))&lt;41308" ; Times: 1
+	Query: "genus:notiosorex institutioncode:KU" ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "specificepithet:obscurus genus:Sylvilagus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "KU 93334" ; Times: 2
+	Query: "distance(location,geopoint(42.0224395043554,-94.0132243508498))&lt;15549" ; Times: 1
+	Query: "distance(location,geopoint(43.0969653373316,-93.4336533711819))&lt;29868" ; Times: 1
+	Query: "leucogaster KU" ; Times: 2
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "KU 93526" ; Times: 2
+	Query: "distance(location,geopoint(43.2917278770001,-93.674033713))&lt;9203" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 18
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "dipodomys ornatus" ; Times: 1
+	Query: "gbifdatasetid:1d04e739-98a9-4e16-9970-8f8f3bf9e9e3" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "ku 9432" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34; institutioncode:KU" ; Times: 1
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "ku 15221" ; Times: 1
+	Query: "Saguinus nigricollis" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;TRinity&#34;" ; Times: 1
+	Query: "scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "palliata" ; Times: 1
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 36
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 3
+	Query: "KU 84721" ; Times: 2
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "ku 17781" ; Times: 2
+	Query: "ku 115509" ; Times: 4
+	Query: "ku 115508" ; Times: 2
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "KU 122552" ; Times: 2
+	Query: "ku 8053" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "distance(location,geopoint(43.2547916795001,-94.2313004395))&lt;32280" ; Times: 2
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:KU" ; Times: 1
+	Query: "Myotis carteri" ; Times: 1
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "genus:Cynomys stateprovince:&#34;Oklahoma&#34; year &gt;= 1860 year &lt;= 1920" ; Times: 1
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 2
+	Query: "island specificepithet:pennsylvanicus genus:microtus institutioncode:KU" ; Times: 1
+	Query: "lepus callotis" ; Times: 1
+	Query: "ku 32121" ; Times: 1
+	Query: "ku 10977" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:eloquens genus:Rhinolophus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34; institutioncode:KU" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:KU" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 4
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "distance(location,geopoint(44.472461768,-96.259428062))&lt;22713" ; Times: 2
+	Query: "distance(location,geopoint(42.7445584405001,-94.8066640555))&lt;16185" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(42.682755171208,-94.9514629647664))&lt;6796" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys teleus " ; Times: 2
+	Query: "specificepithet:familiaris genus:Canis hastissue:1" ; Times: 1
+	Query: "ku 113967" ; Times: 2
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 2
+	Query: "vntype:specimen (marshalltown)" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; institutioncode:KU" ; Times: 1
+	Query: "ku 131652" ; Times: 4
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "&#34;Sorex mirabilis&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "distance(location,geopoint(44.8222615935063,-93.8939967936303))&lt;26036" ; Times: 2
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "eumops floridanus" ; Times: 2
+	Query: "UMMZ 118309" ; Times: 2
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "Platyrrhinus umbratus" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "distance(location,geopoint(43.5272107798635,-95.104608857))&lt;18048" ; Times: 2
+	Query: "95215" ; Times: 1
+	Query: "ku 93509" ; Times: 3
+	Query: "marshalltown" ; Times: 2
+	Query: "ku 163275" ; Times: 1
+	Query: "Reithrodontomys brevirostris" ; Times: 2
+	Query: "Myotis planiceps" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:KU" ; Times: 1
+	Query: "ku 12341" ; Times: 1
+	Query: "KU 18006" ; Times: 1
+	Query: "ku 31141" ; Times: 1
+	Query: "distance(location,geopoint(45.589535943,-95.44487865))&lt;31453" ; Times: 2
+	Query: "ku 14164" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1960 year &lt;= 1969 institutioncode:KU" ; Times: 1
+	Query: "Lepus brachyurus" ; Times: 2
+	Query: "cajon wash specificepithet:merriami genus:dipodomys" ; Times: 2
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "KU 28183" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "ku 10036" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Chaetodipus stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34; institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "Cryptotis medellinius" ; Times: 1
+	Query: "distance(location,geopoint(43.1414242245,-94.7876604945))&lt;15923" ; Times: 2
+	Query: "distance(location,geopoint(44.0128878392582,-94.1287720894129))&lt;40780" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "KU 149388" ; Times: 1
+	Query: "KU 149389" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 1
+	Query: "Marmosa zeledoni" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "ku 167851" ; Times: 1
+	Query: "distance(location,geopoint(42.7182319137675,-94.9131847132593))&lt;2771" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "cajon wash specificepithet:merriami genus:dipodomys year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "KU 15346" ; Times: 1
+	Query: "KU 12808" ; Times: 1
+	Query: "Ursus luteolus" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 2
+	Query: "distance(location,geopoint(41.9716933765001,-94.4065588705))&lt;18904" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus county:&#34;nassau&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "ku 25423" ; Times: 1
+	Query: "island genus:microtus stateprovince:&#34;alaska&#34; institutioncode:KU" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1178 download events in this period)
+Total number of records downloaded: 43341
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Tunisia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 18
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-31 ; Times: 8
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maryland&#34; institutioncode:KU" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "vicugna" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Tlaxcala" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Cryptotis colombianus" ; Times: 2
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Sigmodon leucotis" ; Times: 1
+	Query: "genus:Rhogeessa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "marshalltown" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cundinamarca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "OJO DE AGUA (VERACRUZ)" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:KU" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:KU" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34; institutioncode:KU" ; Times: 1
+	Query: "dipodomys ornatus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "amatlan" ; Times: 2
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;pennsylvania&#34; institutioncode:KU" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
