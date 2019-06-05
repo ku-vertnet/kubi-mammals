@@ -1,0 +1,621 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 758
+Number of records retrieved in searches: 7280
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 196
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 20
+	Country: France ; Times: 2
+	Country: Peru ; Times: 8
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: Guatemala ; Times: 5
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 8
+	Country: Belgium ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 11
+	Country: United States ; Times: 366
+	Country: Russia ; Times: 2
+	Country: Honduras ; Times: 33
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 65
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 21
+	Date: 2019-05-31 ; Times: 16
+	Date: 2019-05-09 ; Times: 12
+	Date: 2019-05-08 ; Times: 21
+	Date: 2019-05-07 ; Times: 32
+	Date: 2019-05-06 ; Times: 70
+	Date: 2019-05-05 ; Times: 62
+	Date: 2019-05-04 ; Times: 9
+	Date: 2019-05-03 ; Times: 63
+	Date: 2019-05-02 ; Times: 17
+	Date: 2019-05-01 ; Times: 49
+	Date: 2019-05-25 ; Times: 9
+	Date: 2019-05-24 ; Times: 16
+	Date: 2019-05-27 ; Times: 19
+	Date: 2019-05-26 ; Times: 13
+	Date: 2019-05-21 ; Times: 11
+	Date: 2019-05-20 ; Times: 25
+	Date: 2019-05-23 ; Times: 21
+	Date: 2019-05-22 ; Times: 44
+	Date: 2019-05-29 ; Times: 23
+	Date: 2019-05-28 ; Times: 31
+	Date: 2019-05-18 ; Times: 2
+	Date: 2019-05-19 ; Times: 10
+	Date: 2019-05-10 ; Times: 10
+	Date: 2019-05-11 ; Times: 19
+	Date: 2019-05-12 ; Times: 7
+	Date: 2019-05-13 ; Times: 13
+	Date: 2019-05-14 ; Times: 37
+	Date: 2019-05-15 ; Times: 46
+	Date: 2019-05-16 ; Times: 11
+	Date: 2019-05-17 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Lichonycteris obscura mappable:1" ; Times: 1
+	Query: "MVZ 138942" ; Times: 1
+	Query: "Phylloderma stenops mappable:1" ; Times: 1
+	Query: "Uroderma magnirostrum mappable:1" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 3
+	Query: "order:rodentia class:mammalia institutioncode:KU" ; Times: 3
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "Akodon montensis mappable:1" ; Times: 3
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 3
+	Query: "33255" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "catalognumber:97521 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Portland stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Didelphis aurita mappable:1" ; Times: 5
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 3
+	Query: "Centronycteris maximiliani mappable:1" ; Times: 1
+	Query: "Thaptomys nigrita mappable:1" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus fulvus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 2
+	Query: "catalognumber:97516 institutioncode:KU" ; Times: 2
+	Query: "155228" ; Times: 1
+	Query: "catalognumber:125477 institutioncode:KU" ; Times: 4
+	Query: "&#34;san vito&#34; class:mammalia stateprovince:&#34;puntarenas&#34; country:&#34;costa rica&#34; sex:male" ; Times: 1
+	Query: "catalognumber:97517 institutioncode:KU" ; Times: 2
+	Query: "KU 103753" ; Times: 1
+	Query: "Molossops temminckii mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 4
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Mustela vntype:specimen stateprovince:&#34;Ohio&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Mazama gouazoubira mappable:1" ; Times: 1
+	Query: "sciurus nayaritensis" ; Times: 1
+	Query: "catalognumber:125350 institutioncode:KU" ; Times: 5
+	Query: "Marmosops incanus mappable:1" ; Times: 1
+	Query: "catalognumber:98889 institutioncode:KU" ; Times: 3
+	Query: "Callithrix penicillata mappable:1" ; Times: 1
+	Query: "Nyctinomops aurispinosus mappable:1" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "specificepithet:nayaritensis genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "Tonatia saurophila mappable:1" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Akodon cursor mappable:1" ; Times: 3
+	Query: "panthera tigris" ; Times: 3
+	Query: "FMNH 5339" ; Times: 1
+	Query: "catalognumber:125260 institutioncode:KU" ; Times: 1
+	Query: "Leopardus geoffroyi mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa lepida " ; Times: 1
+	Query: "KU 17620" ; Times: 1
+	Query: "sciurus richmondi" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "long island order:Carnivora stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Pteronotus gymnonotus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Western Samar&#34; institutioncode:KU" ; Times: 1
+	Query: "mearnsi AND skull specificepithet:latrans genus:Canis year &gt;= 1850 year &lt;= 1929" ; Times: 1
+	Query: "MVZ 151187" ; Times: 1
+	Query: "MVZ 151186" ; Times: 1
+	Query: "MVZ 151189" ; Times: 1
+	Query: "MVZ 151188" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "Platyrrhinus incarum mappable:1" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 4
+	Query: "46899" ; Times: 1
+	Query: "Thyroptera tricolor mappable:1" ; Times: 1
+	Query: "family:leporidae order:lagomorpha stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Oman&#34;" ; Times: 3
+	Query: "KU 18105" ; Times: 2
+	Query: "ku 17555" ; Times: 1
+	Query: "Syncerus caffer mappable:1" ; Times: 1
+	Query: "Oecomys bicolor mappable:1" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "catalognumber:97515 institutioncode:KU" ; Times: 2
+	Query: "Caluromys lanatus mappable:1" ; Times: 1
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "histiotus" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes convelatus " ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ailuropoda" ; Times: 1
+	Query: "alascensis specificepithet:vulpes genus:Vulpes year &gt;= 1840 year &lt;= 1929" ; Times: 1
+	Query: "catalognumber:97520 institutioncode:KU" ; Times: 2
+	Query: "Cavia aperea mappable:1" ; Times: 1
+	Query: "sciurus yucatanensis" ; Times: 2
+	Query: "catalognumber:147730" ; Times: 1
+	Query: "specificepithet:everetti genus:Rattus institutioncode:KU" ; Times: 1
+	Query: "Artibeus gnomus mappable:1" ; Times: 2
+	Query: "Vampyrodes caraccioli mappable:1" ; Times: 1
+	Query: "order:eulipotyphla hastissue:1" ; Times: 2
+	Query: "Conepatus semistriatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 3
+	Query: "59408" ; Times: 1
+	Query: "santa ana eumops" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 1
+	Query: "MVZ 151556" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "ku-90109" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 9
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "catalognumber:97514 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:brevicauda genus:blarina order:eulipotyphla hastissue:1" ; Times: 2
+	Query: "Cynomys parvidens" ; Times: 2
+	Query: "genus:Galictis family:Mustelidae" ; Times: 1
+	Query: "Zacualpilla" ; Times: 1
+	Query: "Myotis levis mappable:1" ; Times: 1
+	Query: "151419" ; Times: 1
+	Query: "catalognumber:75184 institutioncode:KU" ; Times: 4
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "MVZ 151318" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "Peromyscus melanurus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; Leopardus pardalis" ; Times: 1
+	Query: "KU 21351" ; Times: 1
+	Query: "holmes ku" ; Times: 1
+	Query: "Marmosops bishopi" ; Times: 2
+	Query: "Lonchorhina aurita mappable:1" ; Times: 1
+	Query: "MVZ 151265" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "Sturnira tildae mappable:1" ; Times: 1
+	Query: "Marmosa paraguayana mappable:1" ; Times: 1
+	Query: "megasorex gigas" ; Times: 6
+	Query: "genus:Sciurus AND (NOT aberti NOT niger NOT carolinensis) institutioncode:KU" ; Times: 2
+	Query: "Centronycteris centralis" ; Times: 2
+	Query: "specificepithet:alba class:MAMMALIA stateprovince:&#34;heredia&#34; country:&#34;costa rica&#34; sex:female" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "specificepithet:spadiceus genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:100319 institutioncode:KU" ; Times: 3
+	Query: "KU 48669" ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "zacualpan" ; Times: 2
+	Query: "catalognumber:121653 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus institutioncode:KU" ; Times: 2
+	Query: "sciurus alleni" ; Times: 2
+	Query: "Diclidurus albus mappable:1" ; Times: 1
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "Eptesicus brasiliensis mappable:1" ; Times: 1
+	Query: "catalognumber:97518 institutioncode:KU" ; Times: 2
+	Query: "order:Carnivora county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 2
+	Query: "tonatia" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 10
+	Query: "KUM 167919" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;aguascalientes&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Marmosa demerarae mappable:1" ; Times: 1
+	Query: "catalognumber:97519 institutioncode:KU" ; Times: 2
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "Eira barbara Peru" ; Times: 1
+	Query: "Diceros bicornis mappable:1" ; Times: 1
+	Query: "Choeroniscus minor mappable:1" ; Times: 1
+	Query: "specificepithet:coypus institutioncode:KU" ; Times: 1
+	Query: "Trinomys dimidiatus mappable:1" ; Times: 1
+	Query: "sciurus anomalus" ; Times: 3
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "MVZ 151350" ; Times: 1
+	Query: "MVZ 151351" ; Times: 1
+	Query: "catalognumber:108596 institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis caucensis " ; Times: 21
+	Query: "sciurus ignitus" ; Times: 2
+	Query: "MVZ 151584" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "tlacuatzin" ; Times: 3
+	Query: "KU 74689" ; Times: 2
+	Query: "KU 21317" ; Times: 1
+	Query: "Mustela frenata vntype:specimen country:&#34;USA&#34;" ; Times: 5
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "KU 98359" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "MVZ 106057" ; Times: 1
+	Query: "ku 24404" ; Times: 2
+	Query: "solenodon" ; Times: 1
+	Query: "catalognumber:97525 institutioncode:KU" ; Times: 2
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "Leontopithecus rosalia mappable:1" ; Times: 1
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 1
+	Query: "Breviceps hasmass:1" ; Times: 1
+	Query: "Oxymycterus rufus mappable:1" ; Times: 1
+	Query: "puntarenas genus:sigmodon year &gt;= 1986" ; Times: 1
+	Query: "MVZ 151738" ; Times: 1
+	Query: "MVZ 151585" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 4
+	Query: "Saccopteryx leptura mappable:1" ; Times: 1
+	Query: "gardiners class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Cabassous unicinctus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;nuevo leon&#34; AND (myotis )" ; Times: 1
+	Query: "catalognumber:83059 institutioncode:KU" ; Times: 1
+	Query: "genus:Lepus family:leporidae order:lagomorpha stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "locality:Republican R stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Peropteryx kappleri mappable:1" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "genus:myocastor institutioncode:KU" ; Times: 2
+	Query: "MVZ 151640" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 2
+	Query: "MVZ 151644" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "class:Mammalia distance(location,geopoint(28.671856719474327,-101.58687571262669))&lt;100000" ; Times: 1
+	Query: "KU 63219" ; Times: 2
+	Query: "&#34;san vito&#34; genus:vampyressa class:mammalia stateprovince:&#34;puntarenas&#34; country:&#34;costa rica&#34; sex:male" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "ku 154671" ; Times: 1
+	Query: "ku 154672" ; Times: 1
+	Query: "diphylla" ; Times: 4
+	Query: "76486" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "catalognumber:113880 institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "Zapus vntype:specimen stateprovince:&#34;Ohio&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "MVZ 138938" ; Times: 1
+	Query: "catalognumber:97527 institutioncode:KU" ; Times: 2
+	Query: "Ratufa indica" ; Times: 5
+	Query: "leopardus wiedii" ; Times: 3
+	Query: "mearnsi AND skull specificepithet:latrans genus:Canis year &gt;= 1850 year &lt;= 1929 institutioncode:KU" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus country:&#34;USA&#34; hastissue:1" ; Times: 1
+	Query: "Cacahuamilpa" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "specificepithet:yucatanensis genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:160254 institutioncode:KU" ; Times: 2
+	Query: "7094 class:MAMMALIA country:&#34;costa rica&#34;" ; Times: 1
+	Query: "KU 12634" ; Times: 2
+	Query: "Holochilus brasiliensis mappable:1" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "oecomys" ; Times: 1
+	Query: "Monodelphis sorex mappable:1" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "specificepithet:durangae genus:Tamias" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "catalognumber:62313 institutioncode:KU" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 2
+	Query: "Micronycteris microtis mappable:1" ; Times: 1
+	Query: "127198" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "MVZ 151260" ; Times: 1
+	Query: "lama guanicoe" ; Times: 5
+	Query: "MVZ 151309" ; Times: 1
+	Query: "MVZ 124065" ; Times: 1
+	Query: "genus:Sciurus AND (NOT aureogaster NOT variegatoides NOT aberti NOT niger NOT carolinensis) institutioncode:KU" ; Times: 5
+	Query: "MVZ 151266" ; Times: 2
+	Query: "MVZ 151307" ; Times: 1
+	Query: "Emballonura alecto palawanensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 3
+	Query: "167532" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "31985" ; Times: 1
+	Query: "catalognumber:21451 institutioncode:KU" ; Times: 1
+	Query: "Micronycteris minuta mappable:1" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 2
+	Query: "Molossus coibensis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Wisconsin&#34; year &lt;= 1960" ; Times: 1
+	Query: "didelphis pernigra" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "myotis fortidens country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 9
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "Molossus aztecus mappable:1" ; Times: 1
+	Query: "Vampyressa pusilla mappable:1" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "KU 17674" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 2
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Micronycteris schmidtorum mappable:1" ; Times: 1
+	Query: "Lionycteris spurrelli mappable:1" ; Times: 1
+	Query: "catalognumber:103221 institutioncode:KU" ; Times: 2
+	Query: "catalognumber:2894 institutioncode:KU" ; Times: 2
+	Query: "KU 33044" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "catalognumber:105409 institutioncode:KU" ; Times: 2
+	Query: "Sorex sonomae" ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 7
+	Query: "specificepithet:ignitus genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "KU 160271" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 2
+	Query: "marmosops impavidus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Eumops glaucinus mappable:1" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 1
+	Query: "7094 specificepithet:PUSILLA sex:male" ; Times: 1
+	Query: "Octodon degus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "mustela nigripes" ; Times: 5
+	Query: "34176" ; Times: 1
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 2
+	Query: "fmnh 144209" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "MVZ 138940" ; Times: 2
+	Query: "Ursus americanus luteolus" ; Times: 1
+	Query: "myotis stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "genus:megasorex" ; Times: 1
+	Query: "catalognumber:97526 institutioncode:KU" ; Times: 2
+	Query: "MVZ 151437" ; Times: 1
+	Query: "Caluromys philander mappable:1" ; Times: 1
+	Query: "MVZ 151439" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 1
+	Query: "Coendou prehensilis mappable:1" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 6
+	Query: "chernobyl" ; Times: 1
+	Query: "kU 23654" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "catalognumber:97522 institutioncode:KU" ; Times: 2
+	Query: "Hylobates lar" ; Times: 2
+	Query: "MVZ 151728" ; Times: 1
+	Query: "catalognumber:103220 institutioncode:KU" ; Times: 2
+	Query: "Mustela frenata vntype:specimen stateprovince:&#34;Florida&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "MVZ 139936" ; Times: 1
+	Query: "sciurus igniventris" ; Times: 3
+	Query: "KU 158056" ; Times: 2
+	Query: "KU 158057" ; Times: 2
+	Query: "KU 158058" ; Times: 2
+	Query: "KU 143929" ; Times: 2
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "catalognumber:96419 institutioncode:KU" ; Times: 3
+	Query: "UMNH dutchess" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 2
+	Query: "Cyclopes didactylus mappable:1" ; Times: 1
+	Query: "Murexia naso" ; Times: 3
+	Query: "canis rufus" ; Times: 1
+	Query: "catalognumber:97524 institutioncode:KU" ; Times: 3
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "vormela peregusna" ; Times: 2
+	Query: "54721" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Panthera onca Peru" ; Times: 1
+	Query: "KU 155154" ; Times: 2
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "catalognumber:9889 institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 2
+	Query: "91493" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex county:&#34;monterey&#34;" ; Times: 1
+	Query: "Lontra longicaudis mappable:1" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "Marmosa regina year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys teleus " ; Times: 1
+	Query: "MVZ 151479" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 2
+	Query: "specificepithet:richmondi genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "catalognumber:92627 institutioncode:KU" ; Times: 2
+	Query: "genus:Mesomys family:Echimyidae order:Rodentia institutioncode:KU" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "genus:ochotona distance(location,geopoint(39.11607309771916,-120.05379999705497))&lt;49754" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "long island class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "MSB 75587" ; Times: 1
+	Query: "Callithrix aurita mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "Tetragonurus" ; Times: 1
+	Query: "ku 93509" ; Times: 1
+	Query: "genus:heliosciurus" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "Diclidurus isabellus" ; Times: 2
+	Query: "Eptesicus furinalis mappable:1" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "catalognumber:97523 institutioncode:KU" ; Times: 2
+	Query: "Urogale" ; Times: 5
+	Query: "KU 21333" ; Times: 1
+	Query: "MVZ 151297" ; Times: 1
+	Query: "Galea spixii mappable:1" ; Times: 1
+	Query: "MVZ 151185" ; Times: 1
+	Query: "catalognumber:26956 institutioncode:KU" ; Times: 1
+	Query: "Myotis albescens mappable:1" ; Times: 1
+	Query: "MVZ 151190" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Urocyon cinereoargenteus Nayarit" ; Times: 3
+	Query: "specificepithet:everetti genus:Rattus catalognumber:168302 institutioncode:KU" ; Times: 1
+	Query: "ku 153436" ; Times: 3
+	Query: "ku 17582" ; Times: 1
+	Query: "specificepithet:alleni genus:Sciurus institutioncode:KU" ; Times: 1
+	Query: "Myotis riparius mappable:1" ; Times: 1
+	Query: "catalognumber:90581 institutioncode:KU" ; Times: 3
+	Query: "MVZ 151618" ; Times: 1
+	Query: "KU 29456" ; Times: 1
+	Query: "murexia naso" ; Times: 1
+	Query: "KU 99262" ; Times: 1
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 2
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "institutioncode:KU 3339" ; Times: 1
+	Query: "Tamandua tetradactyla Peru" ; Times: 1
+	Query: "KU 88544" ; Times: 2
+	Query: "Marmosa murina mappable:1" ; Times: 1
+	Query: "KU 88543" ; Times: 2
+	Query: "Lophostoma brasiliense mappable:1" ; Times: 1
+	Query: "Galictis vittata mappable:1" ; Times: 1
+	Query: "KU 139195" ; Times: 2
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "KU 135175" ; Times: 2
+	Query: "Artibeus fimbriatus mappable:1" ; Times: 5
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 3
+	Query: "FMNH 6449" ; Times: 1
+	Query: "family:macropodidae preparations:skeleton" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Furipterus horrens mappable:1" ; Times: 2
+	Query: "Macrophyllum macrophyllum mappable:1" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus institutioncode:KU" ; Times: 2
+	Query: "Eumops auripendulus mappable:1" ; Times: 1
+	Query: "Osgoodomys hasmass:1" ; Times: 5
+	Query: "fmnh 144211" ; Times: 1
+	Query: "MVZ 151404" ; Times: 1
+	Query: "Priodontes maximus mappable:1" ; Times: 1
+	Query: "MVZ 151403" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 1
+	Query: "FMNH mammals 6449" ; Times: 1
+	Query: "MVZ 151408" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;USA&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "Dasyprocta leporina mappable:1" ; Times: 1
+	Query: "MVZ 151392" ; Times: 1
+	Query: "MVZ 151393" ; Times: 1
+	Query: "Cynomops planirostris mappable:1" ; Times: 1
+	Query: "Eumops bonariensis mappable:1" ; Times: 1
+	Query: "sorex hoyi winnemana" ; Times: 1
+	Query: "order:Carnivora county:&#34;nassau&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:loris preparations:skeleton" ; Times: 1
+	Query: "Histiotus montanus mappable:1" ; Times: 4
+	Query: "Micronycteris hirsuta mappable:1" ; Times: 1
+	Query: "casper genus:thomomys stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "catalognumber:105109 institutioncode:KU" ; Times: 2
+	Query: "MVZ 151328" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 940 download events in this period)
+Total number of records downloaded: 5886
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 23
+	Country: Ethiopia ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-06 ; Times: 6
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-01 ; Times: 4
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 5
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "diphylla" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "country:&#34;papua new guinea&#34; institutioncode:KU" ; Times: 1
+	Query: "Graphiurus murinus" ; Times: 2
+	Query: "Peromyscus melanophrys melanophrys vntype:specimen stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "megasorex gigas" ; Times: 1
+	Query: "marmosops noctivagus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:Lepus family:leporidae order:lagomorpha stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "marmosops impavidus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Caluromys lanatus year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "genus:Mesomys family:Echimyidae order:Rodentia institutioncode:KU" ; Times: 1
+	Query: "genus:Vampyrum" ; Times: 1
+	Query: "tlacuatzin" ; Times: 1
+	Query: "Peromyscus megalops megalops stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Marmosa regina year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Oman&#34;" ; Times: 3
+	Query: "Marmosops bishopi" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "country:&#34;USA&#34; distance(location,geopoint(29.092454084269157,-103.26980199426089))&lt;54524" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Monodelphis adusta" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "sorex milleri" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.36048311832555,-110.01021818168437))&lt;39962" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Lestoros inca" ; Times: 1
+	Query: "Peromyscus maniculatus fulvus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
