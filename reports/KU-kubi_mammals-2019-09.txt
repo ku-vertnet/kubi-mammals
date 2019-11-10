@@ -1,0 +1,930 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1216
+Number of records retrieved in searches: 32515
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Turkey ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 9
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: China ; Times: 1
+	Country: Thailand ; Times: 281
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 799
+	Country: Sweden ; Times: 1
+	Country: Honduras ; Times: 3
+	Country: Mexico ; Times: 44
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 10
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 12
+	Date: 2019-09-15 ; Times: 7
+	Date: 2019-09-16 ; Times: 12
+	Date: 2019-09-17 ; Times: 20
+	Date: 2019-09-10 ; Times: 13
+	Date: 2019-09-11 ; Times: 16
+	Date: 2019-09-12 ; Times: 25
+	Date: 2019-09-13 ; Times: 8
+	Date: 2019-09-18 ; Times: 34
+	Date: 2019-09-19 ; Times: 34
+	Date: 2019-09-30 ; Times: 16
+	Date: 2019-09-09 ; Times: 13
+	Date: 2019-09-08 ; Times: 6
+	Date: 2019-09-03 ; Times: 61
+	Date: 2019-09-02 ; Times: 24
+	Date: 2019-09-01 ; Times: 5
+	Date: 2019-09-07 ; Times: 16
+	Date: 2019-09-06 ; Times: 22
+	Date: 2019-09-05 ; Times: 298
+	Date: 2019-09-04 ; Times: 22
+	Date: 2019-09-21 ; Times: 14
+	Date: 2019-09-20 ; Times: 20
+	Date: 2019-09-23 ; Times: 30
+	Date: 2019-09-22 ; Times: 16
+	Date: 2019-09-25 ; Times: 70
+	Date: 2019-09-24 ; Times: 148
+	Date: 2019-09-27 ; Times: 136
+	Date: 2019-09-26 ; Times: 93
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Mesophylla macconnelli haslength:1" ; Times: 1
+	Query: "Platyrrhinus brachycephalus haslength:1" ; Times: 1
+	Query: "Eumops auripendulus haslength:1" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys stateprovince:&#34;Massachusetts&#34; institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "Vampyressa thyone haslength:1" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "genus:cryptotis class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 1
+	Query: "KU 2670" ; Times: 2
+	Query: "Rhogeessa parvula haslength:1" ; Times: 1
+	Query: "Myotis nigricans haslength:1" ; Times: 1
+	Query: "nippon" ; Times: 1
+	Query: "vntype:specimen genus:odocoileus stateprovince:&#34;wyoming&#34; year &gt;= 1900 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 1
+	Query: "genus:reithrodontomys county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "KU 1871" ; Times: 2
+	Query: "Brachyphylla cavernarum haslength:1" ; Times: 1
+	Query: "Lophostoma carrikeri haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 4
+	Query: "Panthera onca" ; Times: 10
+	Query: "Pteropus pumilus haslength:1" ; Times: 1
+	Query: "Dipodomys elator" ; Times: 4
+	Query: "Leptonycteris yerbabuenae haslength:1" ; Times: 1
+	Query: "Epomophorus wahlbergi haslength:1" ; Times: 1
+	Query: "Lasiurus intermedius haslength:1" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "143747" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "Carollia sowelli haslength:1" ; Times: 1
+	Query: "Rhinolophus megaphyllus haslength:1" ; Times: 1
+	Query: "Pteropus rodricensis haslength:1" ; Times: 1
+	Query: "Mops condylurus haslength:1" ; Times: 1
+	Query: "genus:Sciurus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Balantiopteryx io haslength:1" ; Times: 1
+	Query: "Brachyphylla nana haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "KU 40166" ; Times: 4
+	Query: "order:Primates class:Mammalia country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 3
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "thompsoni institutioncode:KU" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "order:Carnivora locality:Hidalgo" ; Times: 7
+	Query: "16994." ; Times: 1
+	Query: "Pteronotus macleayii haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris hassex:1" ; Times: 7
+	Query: "Noctilio albiventris haslength:1" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "Phyllostomus hastatus haslength:1" ; Times: 1
+	Query: "Artibeus jamaicensis haslength:1" ; Times: 1
+	Query: "Callithrix penicillata mappable:1" ; Times: 1
+	Query: "genus:Mazama hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:90217 institutioncode:KU" ; Times: 1
+	Query: "Scotophilus leucogaster haslength:1" ; Times: 1
+	Query: "Sturnira mordax haslength:1" ; Times: 1
+	Query: "nivalis mustela" ; Times: 2
+	Query: "KU 2831" ; Times: 4
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; country:&#34;USA&#34;" ; Times: 2
+	Query: "Hipposideros cervinus haslength:1" ; Times: 1
+	Query: "Eptesicus furinalis haslength:1" ; Times: 1
+	Query: "arandas" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Anoura geoffroyi haslength:1" ; Times: 1
+	Query: "catalognumber:2806 institutioncode:KU" ; Times: 2
+	Query: "47798" ; Times: 1
+	Query: "Rhinolophus pusillus haslength:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Rhinolophus acuminatus haslength:1" ; Times: 1
+	Query: "Akodon iniscatus" ; Times: 1
+	Query: "Rhinophylla fischerae haslength:1" ; Times: 1
+	Query: "Lontra longicaudis annectens" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa lepida " ; Times: 1
+	Query: "84733 peromyscus" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Harpyionycteris whiteheadi haslength:1" ; Times: 1
+	Query: "Pteropus leucopterus haslength:1" ; Times: 1
+	Query: "Hipposideros bicolor haslength:1" ; Times: 1
+	Query: "Platyrrhinus incarum haslength:1" ; Times: 1
+	Query: "Artibeus lituratus haslength:1" ; Times: 1
+	Query: "Ametrida centurio haslength:1" ; Times: 1
+	Query: "Corynorhinus mexicanus haslength:1" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "Rhinolophus inops haslength:1" ; Times: 1
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "Platyrrhinus helleri haslength:1" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "Glossophaga leachii haslength:1" ; Times: 1
+	Query: "Sturnira lilium haslength:1" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias institutioncode:KU" ; Times: 2
+	Query: "genus:neotoma order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Lophostoma brasiliense haslength:1" ; Times: 1
+	Query: "order:chiroptera county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 4
+	Query: "41235" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "catalognumber:2679 institutioncode:KU" ; Times: 2
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Papio" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Rhinolophus euryotis haslength:1" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 1
+	Query: "alcelaphus" ; Times: 1
+	Query: "145256" ; Times: 1
+	Query: "Hipposideros fuliginosus haslength:1" ; Times: 1
+	Query: "Vampyressa pusilla haslength:1" ; Times: 1
+	Query: "Phyllostomus elongatus haslength:1" ; Times: 1
+	Query: "Rhinopoma muscatellum haslength:1" ; Times: 1
+	Query: "peromyscus alaska" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Artibeus concolor haslength:1" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 1
+	Query: "catalognumber:2804 institutioncode:KU" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes convelatus " ; Times: 3
+	Query: "ku 90176" ; Times: 1
+	Query: "Melonycteris melanops haslength:1" ; Times: 1
+	Query: "Macroglossus sobrinus haslength:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:KU" ; Times: 1
+	Query: "Artibeus aztecus" ; Times: 2
+	Query: "Rhinolophus pearsonii haslength:1" ; Times: 1
+	Query: "Natalus mexicanus haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1989" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus 1985" ; Times: 1
+	Query: "Microtus pennsylvanicus 1984" ; Times: 1
+	Query: "Carollia perspicillata haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1986" ; Times: 1
+	Query: "Microtus pennsylvanicus 1987" ; Times: 1
+	Query: "Microtus pennsylvanicus 1980" ; Times: 1
+	Query: "Microtus pennsylvanicus 1981" ; Times: 1
+	Query: "Microtus pennsylvanicus 1983" ; Times: 1
+	Query: "Centurio senex haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1960 year &lt;= 1969 hassex:1" ; Times: 1
+	Query: "Artibeus obscurus haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1900 year &lt;= 2019" ; Times: 4
+	Query: "KU 2463" ; Times: 2
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "KU 2464" ; Times: 2
+	Query: "mvz 7918" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "21870" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;Massachusetts&#34; institutioncode:KU" ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 4
+	Query: "Ariteus flavescens haslength:1" ; Times: 1
+	Query: "Eonycteris spelaea haslength:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:170100 institutioncode:KU" ; Times: 2
+	Query: "Scotophilus nigrita haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 5
+	Query: "Rhinolophus hipposideros haslength:1" ; Times: 1
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 5
+	Query: "43180" ; Times: 1
+	Query: "family:muridae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:Spilocuscus hastissue:1" ; Times: 1
+	Query: "Myotis horsfieldii haslength:1" ; Times: 1
+	Query: "Molossus sinaloae haslength:1" ; Times: 1
+	Query: "ku 93202" ; Times: 1
+	Query: "Pteronotus quadridens haslength:1" ; Times: 1
+	Query: "Nyctalus noctula haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 14
+	Query: "Monophyllus plethodon haslength:1" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Lionycteris spurrelli haslength:1" ; Times: 1
+	Query: "KU 28186" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megaderma spasma haslength:1" ; Times: 1
+	Query: "Phylloderma stenops haslength:1" ; Times: 1
+	Query: "Platyrrhinus infuscus haslength:1" ; Times: 1
+	Query: "Micronycteris microtis haslength:1" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "Ectophylla alba haslength:1" ; Times: 1
+	Query: "Dyacopterus spadiceus haslength:1" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "Harpiocephalus harpia haslength:1" ; Times: 1
+	Query: "Artibeus schwartzi haslength:1" ; Times: 1
+	Query: "Rhinolophus philippinensis haslength:1" ; Times: 1
+	Query: "Trachops cirrhosus haslength:1" ; Times: 1
+	Query: "Myotis nyctor haslength:1" ; Times: 1
+	Query: "Myotis sodalis haslength:1" ; Times: 1
+	Query: "Lophostoma silvicolum haslength:1" ; Times: 1
+	Query: "Idionycteris" ; Times: 2
+	Query: "specificepithet:polionotus genus:peromyscus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Tamias stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Eumops bonariensis haslength:1" ; Times: 1
+	Query: "order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "KU 48216" ; Times: 1
+	Query: "KU 6517" ; Times: 2
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "Molossus rufus haslength:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Myotis grisescens haslength:1" ; Times: 1
+	Query: "Tylonycteris robustula haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Gardnerycteris crenulatum " ; Times: 1
+	Query: "Eonycteris robusta haslength:1" ; Times: 1
+	Query: "family:MURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Scotophilus kuhlii haslength:1" ; Times: 1
+	Query: "Tonatia saurophila haslength:1" ; Times: 1
+	Query: "Triaenops persicus haslength:1" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "Rhinolophus virgo haslength:1" ; Times: 1
+	Query: "Nyctophilus microtis haslength:1" ; Times: 1
+	Query: "ku 90034" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "Lasiurus xanthinus haslength:1" ; Times: 1
+	Query: "KU 36171" ; Times: 1
+	Query: "specificepithet:bicolor genus:Coendou country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "megaderma lyra" ; Times: 1
+	Query: "Diphylla ecaudata haslength:1" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "genus:Idionycteris phyllotis" ; Times: 5
+	Query: "Microtus pennsylvanicus 1972" ; Times: 3
+	Query: "Perimyotis subflavus haslength:1" ; Times: 1
+	Query: "Styloctenium mindorensis haslength:1" ; Times: 1
+	Query: "Vampyriscus brocki haslength:1" ; Times: 1
+	Query: "KU 5294" ; Times: 1
+	Query: "KU 134854" ; Times: 1
+	Query: "Sturnira tildae haslength:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "genus:sylvilagus order:lagomorpha class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "KU 2800" ; Times: 2
+	Query: "class:Mammalia catalognumber:170000 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "Philetor brachypterus haslength:1" ; Times: 1
+	Query: "Artibeus anderseni" ; Times: 1
+	Query: "genus:neotoma family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "tayassu pecari ringens" ; Times: 1
+	Query: "catalognumber:2805 institutioncode:KU" ; Times: 2
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 2
+	Query: "Dobsonia minor haslength:1" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Eptesicus serotinus haslength:1" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "Tylonycteris pachypus haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 3
+	Query: "catalognumber:2673 institutioncode:KU" ; Times: 2
+	Query: "Vampyrodes caraccioli haslength:1" ; Times: 1
+	Query: "Miniopterus fuliginosus haslength:1" ; Times: 1
+	Query: "KU 66938" ; Times: 1
+	Query: "Miniopterus australis haslength:1" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "genus:Tamandua hasmass:1 haslength:1" ; Times: 1
+	Query: "Idionycteris phyllotis haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis caucensis " ; Times: 2
+	Query: "&#34;Glaucomys volans&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:microtus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Glossophaga commissarisi haslength:1" ; Times: 1
+	Query: "Coleura afra haslength:1" ; Times: 1
+	Query: "catalognumber:6517 institutioncode:KU" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "genus:ochrotomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "KU 67424" ; Times: 2
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Hipposideros continent:Asia hastissue:1" ; Times: 1
+	Query: "Myotis vivesi haslength:1" ; Times: 1
+	Query: "panthera leo" ; Times: 4
+	Query: "KU 23034" ; Times: 1
+	Query: "catalognumber:19542 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Myotis macrotarsus haslength:1" ; Times: 1
+	Query: "Dicrostonyx unalascensis" ; Times: 1
+	Query: "Histiotus montanus haslength:1" ; Times: 1
+	Query: "Ardops nichollsi haslength:1" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "dryomys" ; Times: 1
+	Query: "catalognumber:2466 institutioncode:KU" ; Times: 3
+	Query: "genus:Glaucomys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Lasiurus seminolus haslength:1" ; Times: 1
+	Query: "Micronycteris minuta haslength:1" ; Times: 1
+	Query: "class:mammalia county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 5
+	Query: "Rhinolophus subrufus haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "Miniopterus schreibersii haslength:1" ; Times: 1
+	Query: "specificepithet: americana genus:Antilocapra hasmass:1 haslength:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Microtus pennsylvanicus 2006" ; Times: 1
+	Query: "Microtus pennsylvanicus 2007" ; Times: 1
+	Query: "Microtus pennsylvanicus 2000" ; Times: 1
+	Query: "Microtus pennsylvanicus 2003" ; Times: 1
+	Query: "Microtus pennsylvanicus 2008" ; Times: 1
+	Query: "Microtus pennsylvanicus 2009" ; Times: 1
+	Query: "Macrotus waterhousii haslength:1" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 1
+	Query: "Leontopithecus rosalia mappable:1" ; Times: 7
+	Query: "Eumops glaucinus haslength:1" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 38
+	Query: "Pteronotus personatus haslength:1" ; Times: 1
+	Query: "Dobsonia praedatrix haslength:1" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Aotus vociferans mappable:1" ; Times: 2
+	Query: "Glossophaga soricina haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 4
+	Query: "county:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 2
+	Query: "Vampyriscus bidens haslength:1" ; Times: 1
+	Query: "Chrotopterus auritus haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:canis class:Mammalia" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor hasmass:1 haslength:1" ; Times: 1
+	Query: "Uroderma bilobatum haslength:1" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys teleus " ; Times: 1
+	Query: "KU 577" ; Times: 1
+	Query: "Myotis albescens haslength:1" ; Times: 1
+	Query: "Carollia castanea haslength:1" ; Times: 1
+	Query: "Otopteropus cartilagonodus haslength:1" ; Times: 1
+	Query: "Hipposideros vittatus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 4
+	Query: "Microtus pennsylvanicus 1974" ; Times: 1
+	Query: "Microtus pennsylvanicus 1977" ; Times: 1
+	Query: "biodiversity protected area" ; Times: 1
+	Query: "Microtus pennsylvanicus 1979" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 5
+	Query: "KU 90334" ; Times: 1
+	Query: "Eumops underwoodi haslength:1" ; Times: 1
+	Query: "class:Mammalia locality:Urique stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "catalognumber:15184 institutioncode:KU" ; Times: 1
+	Query: "Geocapromys brownii" ; Times: 1
+	Query: "Microtus pennsylvanicus 1999" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Vermont&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus pennsylvanicus 1996" ; Times: 1
+	Query: "Microtus pennsylvanicus 1995" ; Times: 1
+	Query: "Microtus pennsylvanicus 1994" ; Times: 1
+	Query: "Microtus pennsylvanicus 1992" ; Times: 1
+	Query: "Microtus pennsylvanicus 1991" ; Times: 1
+	Query: "Anoura cultrata haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2004" ; Times: 1
+	Query: "Cardioderma cor haslength:1" ; Times: 1
+	Query: "Molossops temminckii haslength:1" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Syconycteris australis haslength:1" ; Times: 1
+	Query: "Rhynchonycteris naso haslength:1" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "catalognumber:1233 institutioncode:ku" ; Times: 2
+	Query: "genus:Marmota stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "Aselliscus tricuspidatus haslength:1" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "45583" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "catalognumber:1114 institutioncode:ku" ; Times: 2
+	Query: "MVZ 117465" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari hasmass:1 haslength:1" ; Times: 1
+	Query: "MVZ 117469" ; Times: 3
+	Query: "Eumops perotis haslength:1" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 1
+	Query: "genus:Dasypus hasmass:1 haslength:1" ; Times: 1
+	Query: "Erophylla sezekorni haslength:1" ; Times: 1
+	Query: "Pipistrellus javanicus haslength:1" ; Times: 1
+	Query: "Centronycteris maximiliani haslength:1" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 10
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "Micronycteris brosseti haslength:1" ; Times: 1
+	Query: "Lonchophylla robusta haslength:1" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Thyroptera tricolor haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 2
+	Query: "Pteropus giganteus haslength:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 4
+	Query: "Pteropus samoensis haslength:1" ; Times: 1
+	Query: "Murina cyclotis haslength:1" ; Times: 1
+	Query: "catalognumber:2667 institutioncode:KU" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hasmass:1 haslength:1" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "genus:Akodon country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rhogeessa tumida haslength:1" ; Times: 1
+	Query: "Myotis martiniquensis haslength:1" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Carollia subrufa haslength:1" ; Times: 1
+	Query: "KU 1177" ; Times: 6
+	Query: "KU 1178" ; Times: 1
+	Query: "KU 1179" ; Times: 5
+	Query: "Musonycteris harrisoni haslength:1" ; Times: 1
+	Query: "Carollia brevicauda haslength:1" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Myotis elegans haslength:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis haslength:1" ; Times: 1
+	Query: "Chaerephon pumilus haslength:1" ; Times: 1
+	Query: "Erophylla bombifrons haslength:1" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 7
+	Query: "Artibeus planirostris haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 2
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:female hassex:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Lampronycteris brachyotis haslength:1" ; Times: 1
+	Query: "141412" ; Times: 1
+	Query: "scolomys" ; Times: 1
+	Query: "Hipposideros obscurus haslength:1" ; Times: 1
+	Query: "Platyrrhinus vittatus haslength:1" ; Times: 1
+	Query: "Nyctiellus lepidus haslength:1" ; Times: 1
+	Query: "Pygoderma bilabiatum haslength:1" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "Emballonura alecto haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "family:SCIURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Ptenochirus minor haslength:1" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 4
+	Query: "genus:Hydrochoerus institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 4
+	Query: "138119" ; Times: 1
+	Query: "Myotis occultus haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Leopardus stateprovince:&#34;Chihuahua&#34;" ; Times: 2
+	Query: "Inia geoffrensis" ; Times: 6
+	Query: "specificepithet:marsupialis genus:Didelphis hasmass:1 haslength:1" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 128
+	Query: "genus:peromyscus county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Anoura caudifer haslength:1" ; Times: 1
+	Query: "locality:chapala stateprovince:&#34;Jalisco&#34; country:&#34;México&#34;" ; Times: 4
+	Query: "Myotis keaysi haslength:1" ; Times: 1
+	Query: "Pteropus hypomelanus haslength:1" ; Times: 1
+	Query: "Eumops floridanus haslength:1" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "catalognumber:1925 institutioncode:ku" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 2
+	Query: "Saguinus nigricollis mappable:1" ; Times: 2
+	Query: "Monophyllus redmani haslength:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:Spilocuscus" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "catalognumber:2670 institutioncode:KU" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "Peromyscus maniculatus 1989" ; Times: 4
+	Query: "Peromyscus maniculatus 1988" ; Times: 2
+	Query: "Hipposideros caffer haslength:1" ; Times: 1
+	Query: "Hipposideros diadema haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 2
+	Query: "22581 KU" ; Times: 2
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 4
+	Query: "Peromyscus maniculatus 1987" ; Times: 4
+	Query: "KU 90176" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 1
+	Query: "Rhinolophus shameli haslength:1" ; Times: 1
+	Query: "Spermophilus citellus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "KU 36117" ; Times: 1
+	Query: "Enchisthenes hartii haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 3
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "Glossophaga longirostris haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Taphozous hildegardeae haslength:1" ; Times: 1
+	Query: "Otomops martiensseni haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2008" ; Times: 3
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Hipposideros pygmaeus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2004" ; Times: 2
+	Query: "Peromyscus maniculatus 2007" ; Times: 3
+	Query: "Peromyscus maniculatus 2001" ; Times: 2
+	Query: "Peromyscus maniculatus 2000" ; Times: 2
+	Query: "specificepithet:nuttalli genus:ochrotomys stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "catalognumber:2808 institutioncode:KU" ; Times: 2
+	Query: "Mops mops haslength:1" ; Times: 1
+	Query: "specificepithet:spinatus genus:Chaetodipus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Megaerops wetmorei haslength:1" ; Times: 1
+	Query: "Cynopterus brachyotis haslength:1" ; Times: 1
+	Query: "Nycteris macrotis haslength:1" ; Times: 1
+	Query: "Hipposideros ater haslength:1" ; Times: 1
+	Query: "Choeroniscus minor haslength:1" ; Times: 1
+	Query: "Nycteris thebaica haslength:1" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "ku 143436" ; Times: 1
+	Query: "Myotis levis haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Miniopterus tristis haslength:1" ; Times: 1
+	Query: "gbifdatasetid:1d04e739-98a9-4e16-9970-8f8f3bf9e9e3" ; Times: 1
+	Query: "catalognumber:87012 institutioncode:KU" ; Times: 1
+	Query: "Rhinophylla pumilio haslength:1" ; Times: 1
+	Query: "Macroglossus minimus haslength:1" ; Times: 1
+	Query: "order:chiroptera class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 3
+	Query: "genus:blarina class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Nyctimene aello haslength:1" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 3
+	Query: "KU 1183" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 2
+	Query: "Lasiurus ega haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2010" ; Times: 3
+	Query: "genus:Didelphis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "Myotis austroriparius haslength:1" ; Times: 1
+	Query: "Taphozous melanopogon haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 4
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "specificepithet:gapperi stateprovince:&#34;north carolina&#34;" ; Times: 3
+	Query: "specificepithet:taxus genus:Taxidea hasmass:1 haslength:1" ; Times: 1
+	Query: "Rhinolophus malayanus haslength:1" ; Times: 1
+	Query: "Natalus major haslength:1" ; Times: 1
+	Query: "Rhinolophus eloquens haslength:1" ; Times: 1
+	Query: "Hipposideros armiger haslength:1" ; Times: 1
+	Query: "Eumops floridanus" ; Times: 1
+	Query: "Noctilio leporinus haslength:1" ; Times: 1
+	Query: "velox williamson" ; Times: 3
+	Query: "70455" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "Peromyscus maniculatus 1980" ; Times: 2
+	Query: "Pteropus poliocephalus haslength:1" ; Times: 1
+	Query: "specificepithet:vampyrus genus:Pteropus" ; Times: 2
+	Query: "45812" ; Times: 1
+	Query: "Murina suilla haslength:1" ; Times: 1
+	Query: "catalognumber:2750 institutioncode:KU" ; Times: 3
+	Query: "galictis vittata" ; Times: 1
+	Query: "Nyctinomops macrotis haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 3
+	Query: "KU 2669" ; Times: 2
+	Query: "genus:myotis evotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 7
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "genus:Scolomys" ; Times: 1
+	Query: "Vampyrum spectrum haslength:1" ; Times: 1
+	Query: "Rousettus amplexicaudatus haslength:1" ; Times: 1
+	Query: "Chiroderma salvini haslength:1" ; Times: 1
+	Query: "Hipposideros cyclops haslength:1" ; Times: 1
+	Query: "Stenoderma rufum haslength:1" ; Times: 1
+	Query: "procyon pygmaeus" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "genus:glaucomys county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "Cynopterus sphinx haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1950 year &lt;= 1959 hassex:1" ; Times: 1
+	Query: "Craseonycteris thonglongyai haslength:1" ; Times: 1
+	Query: "Saccopteryx leptura haslength:1" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "order:CARNIVORA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Microtus pennsylvanicus 1973" ; Times: 1
+	Query: "Miniopterus natalensis haslength:1" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 4
+	Query: "Phyllops falcatus haslength:1" ; Times: 1
+	Query: "Rhogeessa alleni" ; Times: 1
+	Query: "Microtus pennsylvanicus 1975" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Micronycteris hirsuta haslength:1" ; Times: 1
+	Query: "Pteronotus davyi haslength:1" ; Times: 1
+	Query: "Hipposideros ruber haslength:1" ; Times: 1
+	Query: "Kerivoula pellucida haslength:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "zapus luteus" ; Times: 1
+	Query: "Hipposideros calcaratus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Microtus pennsylvanicus 1978" ; Times: 1
+	Query: "specificepithet:rufus genus:canis country:&#34;USA&#34;" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "Rousettus aegyptiacus haslength:1" ; Times: 1
+	Query: "Kerivoula hardwickii haslength:1" ; Times: 1
+	Query: "Hipposideros papua haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "Tonatia bidens haslength:1" ; Times: 1
+	Query: "Nyctimene albiventer haslength:1" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:yerbabuenae genus:leptonycteris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "115807" ; Times: 1
+	Query: "Pteronotus rubiginosus haslength:1" ; Times: 1
+	Query: "Kerivoula whiteheadi haslength:1" ; Times: 1
+	Query: "Nycteris hispida haslength:1" ; Times: 1
+	Query: "Chiroderma trinitatum haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "145583" ; Times: 1
+	Query: "Pteronotus mesoamericanus haslength:1" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "145589" ; Times: 1
+	Query: "andinomys edax" ; Times: 1
+	Query: "Myotis auriculus haslength:1" ; Times: 1
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "KU 87711" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:peromyscus county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "KU 143556" ; Times: 2
+	Query: "Molossus aztecus haslength:1" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "Lagothrix lagotricha mappable:1" ; Times: 2
+	Query: "class:Mammalia recordedby:Anderson institutioncode:KU" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Myotis riparius haslength:1" ; Times: 1
+	Query: "Myotis muricola haslength:1" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "genus:oryzomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Antidorcas" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Phyllotis genus:Idionycteris" ; Times: 1
+	Query: "genus:oryzomys family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Hylonycteris underwoodi haslength:1" ; Times: 1
+	Query: "Chaerephon plicatus haslength:1" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "Rhinolophus ferrumequinum haslength:1" ; Times: 1
+	Query: "mvz 7898" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "genus: Potos hasmass:1 haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1998" ; Times: 1
+	Query: "&#34;Glaucomys sabrinus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Molossus currentium haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "69308" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1800 year &lt;= 2019" ; Times: 1
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Rhinolophus arcuatus haslength:1" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "Lavia frons haslength:1" ; Times: 1
+	Query: "Murina florium haslength:1" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Peromyscus maniculatus 1997" ; Times: 2
+	Query: "Peromyscus maniculatus 1994" ; Times: 2
+	Query: "Peromyscus maniculatus 1995" ; Times: 2
+	Query: "Peromyscus maniculatus 1992" ; Times: 2
+	Query: "Peromyscus maniculatus 1993" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 2
+	Query: "Vampyrodes major haslength:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Coendou" ; Times: 1
+	Query: "Alouatta pigra mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 2
+	Query: "KU KUM 1871" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "genus:microtus family:cricetidae order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Micronycteris megalotis haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2010" ; Times: 7
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 2
+	Query: "Phyllonycteris poeyi haslength:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris phyllotis" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Lasiurus minor haslength:1" ; Times: 1
+	Query: "Callithrix aurita mappable:1" ; Times: 1
+	Query: "Lonchorhina aurita haslength:1" ; Times: 1
+	Query: "Corynorhinus rafinesquii haslength:1" ; Times: 1
+	Query: "pteropus vampyrus" ; Times: 1
+	Query: "Eptesicus brasiliensis haslength:1" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "Ptenochirus jagori haslength:1" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "Molossus coibensis haslength:1" ; Times: 1
+	Query: "Pluma hidalgo" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:1926 institutioncode:ku" ; Times: 1
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 3
+	Query: "Panthera pardus india" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 2
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 3
+	Query: "Nyctinomops femorosaccus haslength:1" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "specificepithet:oeconomus genus:Microtus institutioncode:KU" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Guantanamo&#34; country:&#34;Cuba&#34;" ; Times: 1
+	Query: "catalognumber:69590 institutioncode:ku" ; Times: 3
+	Query: "Sturnira ludovici haslength:1" ; Times: 1
+	Query: "Rhinolophus rufus haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "genus:scalopus class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "1816 turner" ; Times: 1
+	Query: "Sturnira magna haslength:1" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 3
+	Query: "Artibeus hirsutus haslength:1" ; Times: 1
+	Query: "specificepithet:dispar genus:sorex stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Haplonycteris fischeri haslength:1" ; Times: 1
+	Query: "genus:glaucomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Chiroderma villosum haslength:1" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:oryzomys order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "catalognumber:1237 institutioncode:ku" ; Times: 1
+	Query: "genus:Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Trinycteris nicefori haslength:1" ; Times: 1
+	Query: "Hipposideros muscinus haslength:1" ; Times: 1
+	Query: "Mormoops megalophylla haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 109 (out of 1073 download events in this period)
+Total number of records downloaded: 14966
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 69
+	Country: Chile ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 5
+	Date: 2019-09-02 ; Times: 10
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 4
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 6
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 6
+	Date: 2019-09-23 ; Times: 7
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 6
+	Date: 2019-09-24 ; Times: 7
+	Date: 2019-09-27 ; Times: 10
+	Date: 2019-09-26 ; Times: 14
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tayassu pecari ringens" ; Times: 1
+	Query: "order:Primates class:Mammalia country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "specificepithet:bicolor genus:Coendou country:&#34;Peru&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Ovibos preparations:Skeleton hassex:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;China&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:xerospermophilus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 2
+	Query: "Pluma hidalgo" ; Times: 1
+	Query: "genus:cynomys stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:armiger genus:Hipposideros" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Panthera pardus india" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Hipposideros continent:Asia hastissue:1" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Idionycteris" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Rhogeessa alleni" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 16
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "Akodon iniscatus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Glaucomys stateprovince:&#34;Massachusetts&#34; institutioncode:KU" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 2
+	Query: "Lontra longicaudis annectens" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; hastissue:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "specificepithet:yerbabuenae genus:leptonycteris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "Mixtepec" ; Times: 1
+	Query: "specificepithet:phyllotis genus:idionycteris hassex:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "vntype:specimen order:chiroptera country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "monte escobedo" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 5
+	Query: "canis rufus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "genus:Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "genus:Idionycteris" ; Times: 3
+	Query: "genus:Marmota stateprovince:&#34;Nebraska&#34;" ; Times: 1
+
+
+End of report.
