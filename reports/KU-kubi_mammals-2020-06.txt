@@ -1,0 +1,295 @@
+Report for Institution Code KU, Resource kubi_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 361
+Number of records retrieved in searches: 2479
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 67
+	Country: United States ; Times: 184
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 34
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 13
+	Country: Singapore ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Bolivia ; Times: 3
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 2
+	Date: 2020-06-18 ; Times: 4
+	Date: 2020-06-30 ; Times: 4
+	Date: 2020-06-15 ; Times: 7
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-17 ; Times: 18
+	Date: 2020-06-16 ; Times: 10
+	Date: 2020-06-11 ; Times: 21
+	Date: 2020-06-10 ; Times: 31
+	Date: 2020-06-13 ; Times: 4
+	Date: 2020-06-12 ; Times: 24
+	Date: 2020-06-08 ; Times: 34
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-20 ; Times: 9
+	Date: 2020-06-21 ; Times: 3
+	Date: 2020-06-22 ; Times: 3
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-26 ; Times: 3
+	Date: 2020-06-09 ; Times: 20
+	Date: 2020-06-06 ; Times: 12
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-04 ; Times: 75
+	Date: 2020-06-05 ; Times: 8
+	Date: 2020-06-02 ; Times: 5
+	Date: 2020-06-03 ; Times: 15
+	Date: 2020-06-01 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "order:Eulipotyphla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Reithrodontomys tenuirostris" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "specificepithet:arenarius genus:geomys county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "specificepithet:arenarius genus:geomys county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "9610 KU" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "ku 169425" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "country:Ecuador scientificname:Gardnerycteris crenulatum " ; Times: 3
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "ku 169424" ; Times: 1
+	Query: "ku 169427" ; Times: 1
+	Query: "ku 169426" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "ku 169423" ; Times: 2
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 1
+	Query: "ku 123160" ; Times: 2
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "Dactylomys" ; Times: 3
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "21019 KU" ; Times: 1
+	Query: "harpia" ; Times: 1
+	Query: "genus:niviventer specificepithet:fulvescens" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; (neovison vison)" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "27797 KU" ; Times: 2
+	Query: "KU 25190" ; Times: 1
+	Query: "16440 KU" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "19410 KU" ; Times: 2
+	Query: "ku 143107" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "mustela institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "umiat lemmus" ; Times: 3
+	Query: "racoon" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Paraechinus micropus" ; Times: 1
+	Query: "mvz maxomys" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 1
+	Query: "5615 KU" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "Eptesicus fuscus country:&#34;USA&#34; (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 3
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "genus:mus country:indonesia" ; Times: 5
+	Query: "Geomys arenarius" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "chiroptera daviesi" ; Times: 4
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 4
+	Query: "10752 KU" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "country:Ecuador scientificname:Myotis caucensis " ; Times: 1
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "12108 KU" ; Times: 1
+	Query: "Redunca redunca" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "ku 147115" ; Times: 1
+	Query: "Lasiurus borealis (skin) AND (Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "23676 KU" ; Times: 1
+	Query: "ku 147116" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "ku 147114" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 3
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Lasiurus borealis country:&#34;USA&#34; (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 11
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 2
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "KU-14876" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "schmidtorum" ; Times: 1
+	Query: "Nycticebus pygmaeus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes convelatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 5
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 1
+	Query: "mustela asia" ; Times: 2
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "24411 KU" ; Times: 2
+	Query: "121594 KU" ; Times: 2
+	Query: "12751 KU" ; Times: 1
+	Query: "genus:paguma" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas year&gt;=1900" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "genus:maxomys" ; Times: 2
+	Query: "catalognumber:1310 institutioncode:KU" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "ku 120763" ; Times: 2
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "21719" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosa lepida " ; Times: 2
+	Query: "rhynchomys" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber:148175 institutioncode:KU" ; Times: 3
+	Query: "mustela erminea institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "ku 154989" ; Times: 2
+	Query: "country:Ecuador scientificname:Pudu mephistophiles " ; Times: 6
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 4
+	Query: "specificepithet:caballus genus:Equus institutioncode:KU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 474 download events in this period)
+Total number of records downloaded: 5741
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Poland ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 4
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-04 ; Times: 8
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chiroptera daviesi" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "order:Eulipotyphla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Lestoros" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "umiat microtus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "umiat lemmus" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "umiat microtus miurus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "umiat microtus oeconomus" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
